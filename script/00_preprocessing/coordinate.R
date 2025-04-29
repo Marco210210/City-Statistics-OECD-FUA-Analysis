@@ -8,7 +8,7 @@ library(stringr)
 
 #Ottieni le coordinate tramite chiamata a API Google
 get_coordinate <- function(dataset){
-  register_google(key = "AIzaSyBdA6v3UpUpvhZL15BDUFwfuTSvpQXVoi8")
+  register_google(key = "")
   dataset <- dataset %>% mutate(city_full_name = str_c(dataset$city, dataset$country, sep = ', '))
   data.geo1 <- geocode(dataset$city_full_name)
   #city <- unique(dataset$city_full_name)
