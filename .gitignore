@@ -1,0 +1,21 @@
+# Ignore R environment files
+.RData
+.Rhistory
+.Rproj.user/
+
+# Ignore renv unnecessary folders
+renv/library/
+renv/staging/
+renv/python/
+renv/cellar/
+renv/local/
+renv/lock/
+
+# Ignore datasets temporanei
+dataset/temporanei/
+
+# General temporary files
+*.tmp
+*.log
+*.aux
+*.out

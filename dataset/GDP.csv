@@ -1,0 +1,702 @@
+"country","city","variable","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","lon","lat"
+"Australia","Canberra","GDP (Million USD, constant prices, constant PPP, base year 2015)",18877,19053,19983,21062,21061,21975,23322,23682,24413,25019,25794,149.1310324,-35.2801846
+"Australia","Geelong","GDP (Million USD, constant prices, constant PPP, base year 2015)",10441,10519,10780,11035,11244,11772,12300,12552,13006,13179,13182,144.3598426,-38.1492994
+"Australia","Gold Coast","GDP (Million USD, constant prices, constant PPP, base year 2015)",20311,20358,21462,21782,22069,22613,23287,24434,25617,25950,25117,153.4,-28.016667
+"Australia","Greater Adelaide","GDP (Million USD, constant prices, constant PPP, base year 2015)",47898,48469,48693,49733,50116,51297,51832,51637,52481,52555,52115,138.6007456,-34.9284989
+"Australia","Greater Brisbane","GDP (Million USD, constant prices, constant PPP, base year 2015)",85518,85718,90368,91713,92923,95214,98050,102879,107862,109262,105756,153.0260341,-27.4704528
+"Australia","Greater Melbourne","GDP (Million USD, constant prices, constant PPP, base year 2015)",170000,171279,175527,179681,183074,191677,200283,204374,211772,214583,214644,144.9630576,-37.8136276
+"Australia","Greater Perth","GDP (Million USD, constant prices, constant PPP, base year 2015)",105459,119074,127364,129775,139719,130842,124992,126046,127579,138269,148180,115.8616783,-31.9513993
+"Australia","Greater Sydney","GDP (Million USD, constant prices, constant PPP, base year 2015)",194245,195376,201697,208872,212507,222357,233421,238961,244226,246686,242176,150.7214362,-33.8048488
+"Australia","Newcastle","GDP (Million USD, constant prices, constant PPP, base year 2015)",18354,18461,19058,19736,20079,21010,22056,22579,23076,23309,22883,151.7816802,-32.9282712
+"Australia","Wollongong","GDP (Million USD, constant prices, constant PPP, base year 2015)",11318,11384,11752,12170,12382,12956,13601,13924,14230,14374,14111,150.8931132,-34.4248336
+"Austria","Graz","GDP (Million USD, constant prices, constant PPP, base year 2015)",29375,29749,30873,31410,31244,31603,31684,32752,33664,34093,35233,15.439504,47.070714
+"Austria","Innsbruck","GDP (Million USD, constant prices, constant PPP, base year 2015)",16644,16826,17335,17674,17841,17890,18233,18518,18861,19256,19665,11.4041024,47.2692124
+"Austria","Klagenfurt","GDP (Million USD, constant prices, constant PPP, base year 2015)",10683,10972,11405,11298,11174,11269,11230,11235,11628,12004,12129,14.3122246,46.6364598
+"Austria","Linz","GDP (Million USD, constant prices, constant PPP, base year 2015)",31625,32227,33151,33234,33454,33515,34039,34343,35363,36497,36939,14.28583,48.30694
+"Austria","Salzburg","GDP (Million USD, constant prices, constant PPP, base year 2015)",20897,21845,22552,23068,22592,22649,23188,23695,24216,24497,25193,13.05501,47.80949
+"Austria","Wien","GDP (Million USD, constant prices, constant PPP, base year 2015)",147342,149523,152353,152169,151841,152052,153285,157588,159167,163491,166077,16.3718643,48.2081664
+"Belgium","Antwerpen","GDP (Million USD, constant prices, constant PPP, base year 2015)",56120,58219,59613,60212,59904,60681,62798,63482,64663,65123,65862,4.4051485,51.2213404
+"Belgium","Brugge","GDP (Million USD, constant prices, constant PPP, base year 2015)",10268,10526,10846,10758,10832,10866,10898,11040,11228,11462,11736,3.2247552,51.2091807
+"Belgium","Bruxelles/Brussel/Leuven","GDP (Million USD, constant prices, constant PPP, base year 2015)",172695,177979,178665,181452,182475,185555,190030,191877,194681,199123,205176,4.356356,50.8489068
+"Belgium","Charleroi","GDP (Million USD, constant prices, constant PPP, base year 2015)",14550,15008,15379,15010,14823,15236,15211,15078,15124,15565,15137,4.44601,50.4096349
+"Belgium","Gent","GDP (Million USD, constant prices, constant PPP, base year 2015)",29078,30151,30673,30870,31449,31948,33039,33771,34668,34961,35422,3.7303351,51.0500182
+"Belgium","Liège","GDP (Million USD, constant prices, constant PPP, base year 2015)",25331,25818,26364,26103,26126,26513,26582,26864,27433,27822,28261,5.5697498,50.6329586
+"Belgium","Mons","GDP (Million USD, constant prices, constant PPP, base year 2015)",6511,6704,7087,7133,7134,7255,7363,7481,7703,7808,8017,3.9523135,50.4546634
+"Belgium","Namur","GDP (Million USD, constant prices, constant PPP, base year 2015)",8259,8595,8659,8629,8602,8744,8773,8879,9018,9166,9191,4.8650729,50.4649359
+"Bulgaria","Burgas","GDP (Million USD, constant prices, constant PPP, base year 2015)",4099,4126,4195,4148,4183,3823,4257,4534,4667,4484,4549,27.4626361,42.5047926
+"Bulgaria","Plovdiv","GDP (Million USD, constant prices, constant PPP, base year 2015)",7359,7392,7612,7724,7863,7612,8167,8706,8924,9239,9666,24.7452904,42.1354079
+"Bulgaria","Sofia","GDP (Million USD, constant prices, constant PPP, base year 2015)",50050,52471,53509,52745,52668,53049,55933,57802,59546,61684,67592,23.3218675,42.6977082
+"Bulgaria","Varna","GDP (Million USD, constant prices, constant PPP, base year 2015)",6869,6594,7006,7181,7023,7474,7591,7524,7737,8154,8182,27.9147333,43.2140504
+"Canada","Calgary","GDP (Million USD, constant prices, constant PPP, base year 2015)",80526,86053,92452,95312,102653,110734,96074,89540,95323,97731,97878,-114.0718831,51.0447331
+"Canada","Edmonton","GDP (Million USD, constant prices, constant PPP, base year 2015)",71603,76517,82207,84750,91278,98463,85428,79618,84761,86901,87032,-113.4937266,53.5460983
+"Canada","Halifax","GDP (Million USD, constant prices, constant PPP, base year 2015)",15463,15858,15698,15593,15647,15789,16274,16508,16759,17087,17558,-63.1005273,44.8857087
+"Canada","Hamilton","GDP (Million USD, constant prices, constant PPP, base year 2015)",24373,25009,25330,25798,25931,26563,28029,28928,29426,30190,30869,-79.8711024,43.2557206
+"Canada","Kitchener","GDP (Million USD, constant prices, constant PPP, base year 2015)",22254,22834,23127,23554,23676,24253,25592,26413,26867,27565,28185,-80.4925337,43.4516395
+"Canada","London","GDP (Million USD, constant prices, constant PPP, base year 2015)",22254,22834,23127,23554,23676,24253,25592,26413,26867,27565,28185,-81.2452768,42.9849233
+"Canada","Montreal","GDP (Million USD, constant prices, constant PPP, base year 2015)",148049,150146,152791,155103,156981,158648,164634,168274,172059,177817,183090,-73.5673919,45.5018869
+"Canada","Ottawa","GDP (Million USD, constant prices, constant PPP, base year 2015)",56519,57850,58651,59692,60088,61378,64540,66478,67693,69556,71224,-75.6971931,45.4215296
+"Canada","Quebec","GDP (Million USD, constant prices, constant PPP, base year 2015)",30168,30596,31135,31606,31989,32328,33548,34290,35061,36234,37309,-71.2074596,46.8130816
+"Canada","Saskatoon","GDP (Million USD, constant prices, constant PPP, base year 2015)",13518,13861,15853,16322,17113,16725,16217,15290,15807,16217,16125,-106.6701577,52.157902
+"Canada","Sherbrooke","GDP (Million USD, constant prices, constant PPP, base year 2015)",8939,9065,9225,9365,9478,9579,9940,10160,10388,10736,11054,-71.893674,45.4042669
+"Canada","Toronto","GDP (Million USD, constant prices, constant PPP, base year 2015)",274463,281624,285236,290503,292001,299122,315629,325755,331358,339966,347612,-79.3831843,43.653226
+"Canada","Vancouver","GDP (Million USD, constant prices, constant PPP, base year 2015)",94212,95675,97951,98792,100433,104015,107910,112708,117540,121859,124660,-123.1207375,49.2827291
+"Canada","Victoria","GDP (Million USD, constant prices, constant PPP, base year 2015)",13509,13719,14045,14166,14401,14915,15473,16161,16854,17473,17875,-123.3656444,48.4284207
+"Canada","Windsor","GDP (Million USD, constant prices, constant PPP, base year 2015)",13776,14136,14317,14581,14656,15014,15842,16351,16632,17064,17448,-83.0363633,42.3149367
+"Canada","Winnipeg","GDP (Million USD, constant prices, constant PPP, base year 2015)",29667,30267,30908,32489,33289,33658,34821,35270,36426,36895,36947,-97.1385145,49.8954221
+"Chile","Antofagasta","GDP (Million USD, constant prices, constant PPP, base year 2015)",22341,26580,25506,26097,24904,25673,23406,22195,24303,25517,25339,-70.3975022,-23.6509279
+"Chile","Concepcion","GDP (Million USD, constant prices, constant PPP, base year 2015)",15388,14998,16832,17359,17806,18745,19986,20276,20277,21498,21637,-73.0443904,-36.8201352
+"Chile","Coquimbo-La Serena","GDP (Million USD, constant prices, constant PPP, base year 2015)",6582,8178,9121,8989,8652,8474,8218,8395,8808,9138,9365,-71.2519374,-29.9026691
+"Chile","Puerto Montt","GDP (Million USD, constant prices, constant PPP, base year 2015)",2821,2801,3127,3184,3607,4031,4145,4374,4762,4955,5081,-72.9411364,-41.468917
+"Chile","Rancagua","GDP (Million USD, constant prices, constant PPP, base year 2015)",5852,6367,6697,6708,6797,7141,7480,7647,7673,7979,8027,-70.7406259,-34.1701324
+"Chile","Santiago","GDP (Million USD, constant prices, constant PPP, base year 2015)",138636,142164,152538,169114,178709,180169,187339,191213,189735,197686,199173,-70.6692655,-33.4488897
+"Chile","Talca","GDP (Million USD, constant prices, constant PPP, base year 2015)",3562,3421,3745,4007,4049,4140,4628,4697,4589,4977,5007,-71.6484804,-35.4232444
+"Chile","Temuco","GDP (Million USD, constant prices, constant PPP, base year 2015)",4112,4388,4664,4840,5114,5207,5570,5904,5936,6260,6379,-72.5904598,-38.7383905
+"Chile","Valparaiso","GDP (Million USD, constant prices, constant PPP, base year 2015)",14778,15803,16590,17582,18517,17970,18342,18754,18869,18802,18822,-71.6126885,-33.047238
+"Colombia","Armenia","GDP (Million USD, constant prices, constant PPP, base year 2015)",2706,2778,2907,3086,3154,3232,3519,3741,3808,3791,3912,-75.6756888,4.5350004
+"Colombia","Barranquilla","GDP (Million USD, constant prices, constant PPP, base year 2015)",17860,17729,18302,19835,21427,23312,25098,25780,25982,26348,27206,-74.8069813,11.0041072
+"Colombia","Bogota D.C.","GDP (Million USD, constant prices, constant PPP, base year 2015)",134566,138742,142783,148492,156923,165280,174606,178668,181302,185654,192142,-74.072092,4.7109886
+"Colombia","Bucaramanga","GDP (Million USD, constant prices, constant PPP, base year 2015)",14900,16486,17891,18408,19466,22307,22262,22469,23029,23607,24601,-73.1227416,7.119349
+"Colombia","Buenaventura","GDP (Million USD, constant prices, constant PPP, base year 2015)",4302,4354,4413,4556,4770,5054,5329,5524,5542,5659,5854,-77.0197212,3.8830471
+"Colombia","Cali","GDP (Million USD, constant prices, constant PPP, base year 2015)",28697,29041,29439,30394,31815,33713,35545,36848,36969,37745,39048,-76.5319854,3.4516467
+"Colombia","Cartagena","GDP (Million USD, constant prices, constant PPP, base year 2015)",8250,8882,9770,10126,11133,11212,11553,12087,12418,12585,13083,-75.4832311,10.3932277
+"Colombia","Cucuta","GDP (Million USD, constant prices, constant PPP, base year 2015)",4813,4858,4939,5014,5343,5662,5949,6234,6203,6337,6427,-72.4966896,7.8890971
+"Colombia","Ibague","GDP (Million USD, constant prices, constant PPP, base year 2015)",4429,4466,4743,4871,5075,5382,5514,5691,5736,5760,5940,-75.242438,4.444676
+"Colombia","Manizales","GDP (Million USD, constant prices, constant PPP, base year 2015)",3819,3881,3863,3890,4111,4412,4678,4906,4988,5078,5287,-75.5027698,5.0629743
+"Colombia","Medellin","GDP (Million USD, constant prices, constant PPP, base year 2015)",39112,40148,42504,44251,46364,49145,51844,53822,53772,55008,57325,-75.5658153,6.2476376
+"Colombia","Monteria","GDP (Million USD, constant prices, constant PPP, base year 2015)",1934,1982,2017,2151,2290,2473,2553,2606,2670,2715,2840,-75.8785348,8.750983
+"Colombia","Neiva","GDP (Million USD, constant prices, constant PPP, base year 2015)",2392,2565,2840,2845,2965,3127,3148,3186,3140,3152,3260,-75.2809001,2.9344837
+"Colombia","Palmira","GDP (Million USD, constant prices, constant PPP, base year 2015)",3324,3364,3410,3521,3686,3905,4118,4269,4283,4373,4523,-76.2971657,3.5379718
+"Colombia","Pasto","GDP (Million USD, constant prices, constant PPP, base year 2015)",1764,1765,1841,1941,2069,2192,2381,2572,2476,2497,2574,-77.285787,1.2058837
+"Colombia","Pereira","GDP (Million USD, constant prices, constant PPP, base year 2015)",5436,5533,5546,5739,6207,6710,7067,7377,7538,7665,7928,-75.690601,4.8087174
+"Colombia","Popayan","GDP (Million USD, constant prices, constant PPP, base year 2015)",1514,1622,1665,1795,1974,2173,2370,2477,2455,2450,2527,-76.6147395,2.4448143
+"Colombia","Riohacha","GDP (Million USD, constant prices, constant PPP, base year 2015)",1712,1682,1844,1866,1769,1767,1788,1853,2013,2119,1925,-72.9167838,11.5384151
+"Colombia","Santa Marta","GDP (Million USD, constant prices, constant PPP, base year 2015)",2540,2594,2603,2745,2960,2967,3188,3372,3408,3470,3567,-74.2110227,11.2403547
+"Colombia","Sincelejo","GDP (Million USD, constant prices, constant PPP, base year 2015)",1257,1252,1312,1414,1523,1655,1745,1813,1848,1863,1918,-75.3905567,9.3045773
+"Colombia","Valledupar","GDP (Million USD, constant prices, constant PPP, base year 2015)",4366,4433,5068,5160,4849,4839,5040,5590,6118,6359,5959,-73.2436335,10.4742449
+"Colombia","Villavicencio","GDP (Million USD, constant prices, constant PPP, base year 2015)",7974,10772,15329,16336,17146,14844,11910,9713,10608,11846,12410,-73.6285475,4.1491688
+"Croatia","Split","GDP (Million USD, constant prices, constant PPP, base year 2015)",6541,6404,6285,6082,6099,6129,6335,6614,6836,7019,7502,16.4435148,43.5147118
+"Croatia","Zagreb","GDP (Million USD, constant prices, constant PPP, base year 2015)",39711,40899,40718,39835,39285,39490,40609,41899,43605,45168,47077,15.981919,45.8150108
+"Czechia","Brno","GDP (Million USD, constant prices, constant PPP, base year 2015)",20438,20936,21639,21673,22232,22083,23423,23614,24735,26017,26834,16.6068371,49.1950602
+"Czechia","Ostrava","GDP (Million USD, constant prices, constant PPP, base year 2015)",18107,18715,19486,19392,18583,19302,19996,20441,21121,21866,21435,18.2625243,49.8209226
+"Czechia","Plzeň","GDP (Million USD, constant prices, constant PPP, base year 2015)",9537,9845,10076,9708,10053,10340,10797,11070,11620,11902,11994,13.3736371,49.7384314
+"Czechia","Praha","GDP (Million USD, constant prices, constant PPP, base year 2015)",108072,112488,112237,111712,111983,114846,122395,126882,133411,139524,145049,14.4378005,50.0755381
+"Denmark","Aalborg","GDP (Million USD, constant prices, constant PPP, base year 2015)",12335,12084,12160,12259,12317,12335,12682,13041,13441,13492,13628,9.921747,57.0488195
+"Denmark","Århus","GDP (Million USD, constant prices, constant PPP, base year 2015)",20267,19839,20320,20191,20222,20469,20909,22455,23059,23567,24399,10.203921,56.162939
+"Denmark","København","GDP (Million USD, constant prices, constant PPP, base year 2015)",102990,107974,107327,108944,111739,115549,121396,124357,128936,132281,133681,12.5683371,55.6760968
+"Denmark","Odense","GDP (Million USD, constant prices, constant PPP, base year 2015)",14025,13590,13838,13595,13672,13876,14152,14680,15088,15192,15354,10.40237,55.403756
+"Estonia","Tallinn","GDP (Million USD, constant prices, constant PPP, base year 2015)",19170,19300,21278,22457,22919,23644,24060,24982,26433,26974,27621,24.7535746,59.4369608
+"Finland","Helsinki/Helsingfors","GDP (Million USD, constant prices, constant PPP, base year 2015)",77293,79966,79925,78406,79294,78627,80669,83018,85652,87056,89363,24.938379,60.1698557
+"Finland","Oulu/Uleåborg","GDP (Million USD, constant prices, constant PPP, base year 2015)",8797,9195,9225,9148,9039,8862,8565,9187,9408,9386,9588,25.4650773,65.0120888
+"Finland","Tampere/Tammerfors","GDP (Million USD, constant prices, constant PPP, base year 2015)",16510,17163,18150,17474,16989,16682,16531,17301,17859,18331,18657,23.7609535,61.4977524
+"Finland","Turku/Åbo","GDP (Million USD, constant prices, constant PPP, base year 2015)",14210,13491,14155,13817,13553,13591,13424,14152,14961,15142,15283,22.2666303,60.4518126
+"France","Amiens","GDP (Million USD, constant prices, constant PPP, base year 2015)",11109,11173,11336,11437,11472,11338,11508,11167,11531,11710,11837,2.295753,49.894067
+"France","Angers","GDP (Million USD, constant prices, constant PPP, base year 2015)",12918,13077,13652,13524,13657,13742,13797,13891,14205,14224,14583,-0.5518257,47.4711616
+"France","Annecy","GDP (Million USD, constant prices, constant PPP, base year 2015)",8814,9071,9624,9450,9608,9723,9959,10154,10496,10729,10802,6.129384,45.899247
+"France","Annemasse-Geneva (French part)","GDP (Million USD, constant prices, constant PPP, base year 2015)",12617,12886,13594,13371,13595,13744,14035,14325,14710,15022,15159,6.234158,46.193253
+"France","Avignon","GDP (Million USD, constant prices, constant PPP, base year 2015)",11032,11139,11397,11501,11614,11951,11986,12067,12416,12553,12789,4.805528,43.949317
+"France","Bayonne","GDP (Million USD, constant prices, constant PPP, base year 2015)",8822,8985,9283,9196,9336,9331,9376,9399,9363,9438,9763,-1.474841,43.492949
+"France","Besançon","GDP (Million USD, constant prices, constant PPP, base year 2015)",8939,9019,9259,8805,8884,8987,9103,9272,9449,9536,9636,6.0240539,47.237829
+"France","Bordeaux","GDP (Million USD, constant prices, constant PPP, base year 2015)",46660,48293,49686,50193,49314,50314,51596,53245,55066,57036,57895,-0.57918,44.837789
+"France","Brest","GDP (Million USD, constant prices, constant PPP, base year 2015)",11115,11108,11482,11426,11602,11659,11805,11942,12171,12170,12499,-4.4869723,48.3907119
+"France","Caen","GDP (Million USD, constant prices, constant PPP, base year 2015)",15985,16762,17250,16532,16411,16435,16520,16694,16174,16398,16531,-0.370679,49.182863
+"France","Cannes-Antibes","GDP (Million USD, constant prices, constant PPP, base year 2015)",15627,16094,16327,16387,16298,16222,16398,16909,17149,17327,17530,7.0923186,43.5745065
+"France","Chambéry","GDP (Million USD, constant prices, constant PPP, base year 2015)",9388,9291,9815,9725,9762,9781,9888,10165,10512,10787,10910,5.917781,45.564601
+"France","Clermont-Ferrand","GDP (Million USD, constant prices, constant PPP, base year 2015)",16500,16542,17507,17451,17727,17873,18144,18382,19543,20171,20579,3.087025,45.777222
+"France","Dijon","GDP (Million USD, constant prices, constant PPP, base year 2015)",15836,15887,16232,16156,16300,16455,16454,16409,16925,17344,17310,5.04148,47.322047
+"France","Dunkerque","GDP (Million USD, constant prices, constant PPP, base year 2015)",8644,8632,8885,8782,8850,8911,9049,9099,9335,9486,9531,2.3767763,51.0343684
+"France","Fort-de-France","GDP (Million USD, constant prices, constant PPP, base year 2015)",9466,9713,9916,9928,9884,10102,10184,10105,10211,10237,10081,2.213749,46.227638
+"France","Grenoble","GDP (Million USD, constant prices, constant PPP, base year 2015)",25464,26331,27111,26837,26797,27135,26935,27601,28045,28646,29173,5.724524,45.188529
+"France","Hayange","GDP (Million USD, constant prices, constant PPP, base year 2015)",9248,9178,9313,9147,9107,9218,9296,9202,9401,9409,9405,6.062166,49.329827
+"France","Le Havre","GDP (Million USD, constant prices, constant PPP, base year 2015)",11946,12249,12460,12517,12534,12541,12643,12349,12440,12349,12374,0.107929,49.49437
+"France","Le Mans","GDP (Million USD, constant prices, constant PPP, base year 2015)",11501,11353,11564,11622,11596,11737,11516,11568,11641,11592,11694,0.199556,48.00611
+"France","Lens","GDP (Million USD, constant prices, constant PPP, base year 2015)",8824,8864,8979,8863,8905,9000,8914,9024,9193,9250,9398,2.83183,50.42893
+"France","Lille","GDP (Million USD, constant prices, constant PPP, base year 2015)",50468,50409,51864,51258,51650,52012,52775,53081,54442,55312,55589,3.057256,50.62925
+"France","Limoges","GDP (Million USD, constant prices, constant PPP, base year 2015)",10309,9973,10184,10040,10382,10488,10499,10320,10647,10691,11266,1.261105,45.833619
+"France","Lyon","GDP (Million USD, constant prices, constant PPP, base year 2015)",99364,102993,105283,106447,106595,108109,110273,113030,116646,121462,123679,4.835659,45.764043
+"France","Marseille","GDP (Million USD, constant prices, constant PPP, base year 2015)",70332,74149,74128,76751,75189,76454,77118,76620,78747,80091,81297,5.36978,43.296482
+"France","Metz","GDP (Million USD, constant prices, constant PPP, base year 2015)",11331,11256,11439,11227,11159,11302,11433,11304,11562,11561,11546,6.1757156,49.1193089
+"France","Montpellier","GDP (Million USD, constant prices, constant PPP, base year 2015)",24505,25295,25923,25931,25679,26025,26208,26827,27298,28061,28656,3.876716,43.610769
+"France","Mulhouse","GDP (Million USD, constant prices, constant PPP, base year 2015)",13396,13049,13467,13312,13418,13521,13582,13662,14138,14461,14523,7.335888,47.750839
+"France","Nancy","GDP (Million USD, constant prices, constant PPP, base year 2015)",17018,16718,16665,16504,16744,16832,16394,16446,16597,16787,16936,6.184417,48.692054
+"France","Nantes","GDP (Million USD, constant prices, constant PPP, base year 2015)",35523,35463,37202,37687,38087,38885,40276,40959,42319,43575,45077,-1.553621,47.218371
+"France","Nice","GDP (Million USD, constant prices, constant PPP, base year 2015)",23564,24279,24625,24717,24586,24474,24738,25517,25873,26128,26435,7.2619532,43.7101728
+"France","Nîmes","GDP (Million USD, constant prices, constant PPP, base year 2015)",9175,9177,9434,9418,9340,9450,9542,9596,9867,9922,10230,4.360054,43.836699
+"France","Orléans","GDP (Million USD, constant prices, constant PPP, base year 2015)",16162,16653,16863,16802,16755,16644,16668,16757,17035,17203,17352,1.909251,47.902964
+"France","Paris","GDP (Million USD, constant prices, constant PPP, base year 2015)",773138,809310,815458,825400,836769,843591,855515,869778,889968,910598,935683,2.3522219,48.856614
+"France","Pau","GDP (Million USD, constant prices, constant PPP, base year 2015)",10136,10365,10672,10526,10712,10685,10732,10764,10698,10756,11145,-0.370797,43.2951
+"France","Perpignan","GDP (Million USD, constant prices, constant PPP, base year 2015)",10883,10806,11272,11149,11091,11152,11353,11356,11636,11754,11993,2.8948332,42.6886591
+"France","Poitiers","GDP (Million USD, constant prices, constant PPP, base year 2015)",8891,8806,9109,9354,9374,9496,9402,9389,9638,9650,9793,0.340375,46.580224
+"France","Reims","GDP (Million USD, constant prices, constant PPP, base year 2015)",12923,13229,13873,13600,13566,13385,13413,13294,13723,13929,13905,4.031696,49.258329
+"France","Rennes","GDP (Million USD, constant prices, constant PPP, base year 2015)",26403,26781,27731,27911,28103,29045,29499,30095,31314,31809,32375,-1.6777926,48.117266
+"France","Rouen","GDP (Million USD, constant prices, constant PPP, base year 2015)",25594,26238,26686,26795,26825,26828,27057,26462,26669,26511,26578,1.099971,49.443232
+"France","Saint-Denis","GDP (Million USD, constant prices, constant PPP, base year 2015)",7165,7138,7397,7452,7461,7618,7790,7975,8149,8185,8299,2.357443,48.936181
+"France","Saint-Étienne","GDP (Million USD, constant prices, constant PPP, base year 2015)",15688,15189,15925,15730,15630,15752,15818,15988,16265,16518,16723,4.3871779,45.439695
+"France","Strasbourg","GDP (Million USD, constant prices, constant PPP, base year 2015)",32145,32026,32786,32395,32703,33060,33135,33878,34414,35169,35651,7.7521113,48.5734053
+"France","Toulon","GDP (Million USD, constant prices, constant PPP, base year 2015)",15293,15508,15839,15860,15691,15558,15760,16073,16464,16920,17115,5.928,43.124228
+"France","Toulouse","GDP (Million USD, constant prices, constant PPP, base year 2015)",54647,55051,57483,59934,61426,63180,64654,65944,67122,69870,70672,1.444209,43.604652
+"France","Tours","GDP (Million USD, constant prices, constant PPP, base year 2015)",17114,17324,17610,17627,17826,18052,18396,18460,18600,19059,19232,0.68484,47.394144
+"France","Valence","GDP (Million USD, constant prices, constant PPP, base year 2015)",8275,8275,8633,8776,8791,8876,8994,9008,9067,9222,9468,4.89236,44.933393
+"France","Valenciennes","GDP (Million USD, constant prices, constant PPP, base year 2015)",11690,11672,12021,11882,11975,12056,12252,12318,12639,12849,12905,3.518332,50.357113
+"Germany","Aachen","GDP (Million USD, constant prices, constant PPP, base year 2015)",22784,23442,23828,24575,23822,25391,25720,26148,26682,27069,27322,6.0838868,50.7753455
+"Germany","Augsburg","GDP (Million USD, constant prices, constant PPP, base year 2015)",24260,25402,26680,27218,26722,27271,28303,28598,28984,29627,30128,10.89779,48.3705449
+"Germany","Berlin","GDP (Million USD, constant prices, constant PPP, base year 2015)",175133,180747,187452,188101,190005,196482,202061,211671,220761,228330,235025,13.404954,52.5200066
+"Germany","Bielefeld","GDP (Million USD, constant prices, constant PPP, base year 2015)",23355,23748,24907,25100,25527,26145,26230,26620,27071,27535,27910,8.5324708,52.0302285
+"Germany","Bonn","GDP (Million USD, constant prices, constant PPP, base year 2015)",44793,44474,45071,43360,45011,42988,43430,43778,45408,48384,45869,7.0982068,50.73743
+"Germany","Braunschweig-Salzgitter","GDP (Million USD, constant prices, constant PPP, base year 2015)",30050,31569,33142,33059,32689,33936,32745,35243,35800,36188,37828,10.5267696,52.2688736
+"Germany","Bremen","GDP (Million USD, constant prices, constant PPP, base year 2015)",43554,46002,47322,48486,48240,49205,49348,50116,51149,50922,50760,8.8016937,53.0792962
+"Germany","Chemnitz","GDP (Million USD, constant prices, constant PPP, base year 2015)",15795,16451,17113,17097,17079,17485,17503,17876,18238,18338,18528,12.9208547,50.8282222
+"Germany","Darmstadt","GDP (Million USD, constant prices, constant PPP, base year 2015)",20383,21301,22569,22467,22455,22901,23171,24936,25746,25660,26120,8.6511929,49.8728253
+"Germany","Dresden","GDP (Million USD, constant prices, constant PPP, base year 2015)",32610,33696,34296,34360,35162,36221,38071,38532,39383,40129,40880,13.7372621,51.0504088
+"Germany","Düsseldorf","GDP (Million USD, constant prices, constant PPP, base year 2015)",94717,95374,96170,95236,96309,97553,98862,99738,102664,104709,103478,6.7734556,51.2277411
+"Germany","Erfurt","GDP (Million USD, constant prices, constant PPP, base year 2015)",12583,13002,13690,13661,14427,14759,14658,14786,14825,14864,15160,11.0298799,50.9847679
+"Germany","Erlangen","GDP (Million USD, constant prices, constant PPP, base year 2015)",16314,16259,17856,18569,18275,18939,19847,19933,20383,21391,21987,11.0119611,49.5896744
+"Germany","Frankfurt am Main","GDP (Million USD, constant prices, constant PPP, base year 2015)",161413,164061,169680,167496,168585,172630,173721,177338,180133,180799,182069,8.6821267,50.1109221
+"Germany","Freiburg im Breisgau","GDP (Million USD, constant prices, constant PPP, base year 2015)",22368,23582,24662,24814,25272,26180,26525,26855,27564,28131,29049,7.8421043,47.9990077
+"Germany","Göttingen","GDP (Million USD, constant prices, constant PPP, base year 2015)",11036,11348,11927,11848,11924,12130,12095,12461,12644,12688,12630,9.9158035,51.5412804
+"Germany","Halle an der Saale","GDP (Million USD, constant prices, constant PPP, base year 2015)",12853,13504,13662,13729,13553,13562,13846,14067,14361,14589,14713,11.9662371,51.4953567
+"Germany","Hamburg","GDP (Million USD, constant prices, constant PPP, base year 2015)",174327,177959,179863,181742,184479,186421,190628,193190,199819,200628,205657,9.9871703,53.5488282
+"Germany","Hannover","GDP (Million USD, constant prices, constant PPP, base year 2015)",60710,62364,65018,65006,63529,64778,64739,67787,68221,69666,70786,9.7320104,52.3758916
+"Germany","Heidelberg","GDP (Million USD, constant prices, constant PPP, base year 2015)",17040,17541,17956,18178,18192,18576,18629,18736,19417,19518,20312,8.6724335,49.3987524
+"Germany","Heilbronn","GDP (Million USD, constant prices, constant PPP, base year 2015)",18818,19916,21135,22091,23191,23645,24306,24018,25128,26351,27051,9.210879,49.1426929
+"Germany","Ingolstadt","GDP (Million USD, constant prices, constant PPP, base year 2015)",20467,24255,27088,29026,31903,31740,33476,33258,33756,33171,34666,11.4226498,48.7667395
+"Germany","Kaiserslautern","GDP (Million USD, constant prices, constant PPP, base year 2015)",8413,8767,9066,8953,8938,9467,9666,9913,9732,9820,9891,7.7491265,49.4400657
+"Germany","Karlsruhe","GDP (Million USD, constant prices, constant PPP, base year 2015)",36726,38869,39860,39870,39327,40956,42288,42514,43641,44410,44174,8.4036527,49.0068901
+"Germany","Kassel","GDP (Million USD, constant prices, constant PPP, base year 2015)",20085,20568,21407,21198,21261,21918,22028,23898,23631,23481,23746,9.4797461,51.3127114
+"Germany","Kiel","GDP (Million USD, constant prices, constant PPP, base year 2015)",19390,19266,20187,20376,20546,20723,20476,20850,21642,21887,22382,10.1227652,54.3232927
+"Germany","Koblenz","GDP (Million USD, constant prices, constant PPP, base year 2015)",15260,15640,16215,16378,16638,16866,17065,17118,17579,17500,17818,7.5889959,50.3569429
+"Germany","Köln","GDP (Million USD, constant prices, constant PPP, base year 2015)",106584,108824,111434,112241,113747,118319,124028,124826,127951,128624,127931,6.9602786,50.937531
+"Germany","Krefeld","GDP (Million USD, constant prices, constant PPP, base year 2015)",12457,12711,12920,12719,12296,12355,12467,12697,13467,13693,13511,6.565208,51.3345409
+"Germany","Leipzig","GDP (Million USD, constant prices, constant PPP, base year 2015)",29474,30620,32481,33291,33948,35304,35735,36706,38018,38354,39654,12.3730747,51.3396955
+"Germany","Lübeck","GDP (Million USD, constant prices, constant PPP, base year 2015)",14306,14858,15250,15580,15711,15363,15698,15450,16890,16982,17394,10.6865593,53.8654673
+"Germany","Magdeburg","GDP (Million USD, constant prices, constant PPP, base year 2015)",15080,15443,15618,15978,15929,16249,16002,16133,16493,16510,16886,11.6276237,52.1205333
+"Germany","Mainz","GDP (Million USD, constant prices, constant PPP, base year 2015)",21421,22154,22728,23338,23295,23444,23433,24088,24180,24459,24615,8.2472526,49.9928617
+"Germany","Mannheim-Ludwigshafen","GDP (Million USD, constant prices, constant PPP, base year 2015)",62712,66263,68076,68132,68360,68436,70908,71345,72918,72787,73102,8.4447451,49.4774018
+"Germany","Mönchengladbach","GDP (Million USD, constant prices, constant PPP, base year 2015)",13798,14002,14449,14651,14481,14829,15133,15409,15821,15728,15749,6.4315392,51.1941686
+"Germany","München","GDP (Million USD, constant prices, constant PPP, base year 2015)",192382,197478,209784,212435,215243,220095,226027,233962,243504,243032,248696,11.5819806,48.1351253
+"Germany","Münster","GDP (Million USD, constant prices, constant PPP, base year 2015)",30515,30902,31716,31949,31158,31851,32249,32840,33902,34124,34655,7.6261347,51.9606649
+"Germany","Nürnberg","GDP (Million USD, constant prices, constant PPP, base year 2015)",51859,53712,55794,56892,57453,58671,59333,61548,63973,64520,65354,11.0766654,49.4521018
+"Germany","Oldenburg (Oldenburg)","GDP (Million USD, constant prices, constant PPP, base year 2015)",12601,13035,13395,13454,13474,13750,13819,14254,14652,14847,15227,8.2145521,53.1434501
+"Germany","Osnabrück","GDP (Million USD, constant prices, constant PPP, base year 2015)",14997,15559,16586,16454,16481,16976,17334,17485,17813,17893,18334,8.0471788,52.2799112
+"Germany","Paderborn","GDP (Million USD, constant prices, constant PPP, base year 2015)",12503,12640,12965,13263,13394,13987,13858,14316,14521,14510,14571,8.7575093,51.7189205
+"Germany","Pforzheim","GDP (Million USD, constant prices, constant PPP, base year 2015)",9666,10616,11096,11383,11529,11406,11437,11438,11576,11676,11707,8.6946286,48.8921862
+"Germany","Regensburg","GDP (Million USD, constant prices, constant PPP, base year 2015)",20771,23211,24326,24251,24409,25455,25710,26079,27573,27053,27229,12.1016236,49.0134297
+"Germany","Rostock","GDP (Million USD, constant prices, constant PPP, base year 2015)",10634,11290,11435,11413,11835,12446,12362,12461,13377,12951,13883,12.0991466,54.0924406
+"Germany","Ruhrgebiet","GDP (Million USD, constant prices, constant PPP, base year 2015)",191715,196154,201579,197477,194709,197372,197060,198029,202216,206812,206585,7.1980843,51.5450884
+"Germany","Saarbrücken","GDP (Million USD, constant prices, constant PPP, base year 2015)",23564,24740,26681,25949,25606,25979,25999,25926,26215,26093,25433,6.997547,49.2381697
+"Germany","Siegen","GDP (Million USD, constant prices, constant PPP, base year 2015)",10486,10686,11363,11288,11098,11274,11501,11581,11821,11914,11756,8.0209591,50.8838492
+"Germany","Stuttgart","GDP (Million USD, constant prices, constant PPP, base year 2015)",134215,149518,156943,159116,159474,162190,170588,170878,177251,180245,173732,9.1829321,48.7758459
+"Germany","Trier","GDP (Million USD, constant prices, constant PPP, base year 2015)",9047,9314,9782,9745,9936,10178,10349,10547,10519,10558,10606,6.6371433,49.749992
+"Germany","Ulm","GDP (Million USD, constant prices, constant PPP, base year 2015)",22484,23748,24796,24550,25006,25338,25922,26883,27368,27952,28443,9.9876076,48.4010822
+"Germany","Wiesbaden","GDP (Million USD, constant prices, constant PPP, base year 2015)",24687,25047,25615,25682,25698,26469,26440,27016,27870,27420,28028,8.2397608,50.0782184
+"Germany","Wolfsburg","GDP (Million USD, constant prices, constant PPP, base year 2015)",20453,25014,27842,27666,27543,28717,25169,34826,32560,34929,36141,10.7865461,52.4226503
+"Germany","Wuppertal","GDP (Million USD, constant prices, constant PPP, base year 2015)",15472,15554,16064,15839,15836,16517,16683,17324,17254,17011,17140,7.1507636,51.2562128
+"Germany","Würzburg","GDP (Million USD, constant prices, constant PPP, base year 2015)",16442,17263,17944,18105,18238,18610,19101,19412,19990,19856,20269,9.9533548,49.7913044
+"Greece","Athina","GDP (Million USD, constant prices, constant PPP, base year 2015)",173320,162727,146330,134339,131080,131674,130344,130180,132271,134080,136831,23.7275388,37.9838096
+"Greece","Thessaloniki","GDP (Million USD, constant prices, constant PPP, base year 2015)",31994,29246,26302,24043,22989,22933,23340,23606,23899,24513,24787,22.9444191,40.6400629
+"Hungary","Budapest","GDP (Million USD, constant prices, constant PPP, base year 2015)",115636,115328,116802,115302,115764,120111,121584,124588,130665,137588,148132,19.040235,47.497912
+"Hungary","Debrecen","GDP (Million USD, constant prices, constant PPP, base year 2015)",5794,5982,6124,6083,5933,6210,6356,6290,6795,7192,7416,21.6254485,47.5288879
+"Hungary","Miskolc","GDP (Million USD, constant prices, constant PPP, base year 2015)",4301,4335,4427,4428,4616,4952,5578,5576,6122,6343,6173,20.7784384,48.1034775
+"Hungary","Nyíregyháza","GDP (Million USD, constant prices, constant PPP, base year 2015)",3018,3116,3229,3281,3342,3536,3647,3755,3873,4156,4388,21.7244053,47.9495324
+"Hungary","Pécs","GDP (Million USD, constant prices, constant PPP, base year 2015)",4402,4345,4253,4220,4202,4312,4440,4571,4813,5171,5371,18.232266,46.0727345
+"Hungary","Székesfehérvár","GDP (Million USD, constant prices, constant PPP, base year 2015)",5336,5552,5988,5898,6192,6570,7129,7399,7652,7975,8114,18.4221358,47.1860262
+"Ireland","Cork","GDP (Million USD, constant prices, constant PPP, base year 2015)",27238,27283,30011,29996,27734,31234,40668.5,50103,59537.5,68972,69425,-8.4756035,51.8985143
+"Ireland","Dublin","GDP (Million USD, constant prices, constant PPP, base year 2015)",120364,123057,119497,120452,128090,142218,147473,165338,178091,190236,200923,-6.2603097,53.3498053
+"Ireland","Galway","GDP (Million USD, constant prices, constant PPP, base year 2015)",9798,10563,11387,11279,10197,11068,10839,10546,11089,11720,12307,-9.0512662,53.274001
+"Ireland","Limerick","GDP (Million USD, constant prices, constant PPP, base year 2015)",10893,11189,11193,11256,10787,10338,12563.25,14788.5,17013.75,19239,21808,-8.6267299,52.663839
+"Italy","Bari","GDP (Million USD, constant prices, constant PPP, base year 2015)",20531,20861,20915,20653,19944,19698,20199,20503,20568,20974,21162,16.8718715,41.1171432
+"Italy","Bergamo","GDP (Million USD, constant prices, constant PPP, base year 2015)",13563,13441,13506,12988,12694,12765,12834,13081,13337,13605,13842,9.6772698,45.6982642
+"Italy","Bologna","GDP (Million USD, constant prices, constant PPP, base year 2015)",36760,39060,40393,38963,38990,39379,39950,40414,41440,42253,42979,11.3426163,44.494887
+"Italy","Brescia","GDP (Million USD, constant prices, constant PPP, base year 2015)",19778,20084,20684,19979,19590,19750,19949,20423,20941,21302,21507,10.2118019,45.5415526
+"Italy","Cagliari","GDP (Million USD, constant prices, constant PPP, base year 2015)",17565,17263,16828,16775,15999,15718,16788,16874,16908,17032,17145,9.1216613,39.2238411
+"Italy","Catania","GDP (Million USD, constant prices, constant PPP, base year 2015)",16400,16263,15952,15662,15347,15360,15068,15152,15323,15305,15580,15.0830304,37.5078772
+"Italy","Firenze","GDP (Million USD, constant prices, constant PPP, base year 2015)",38330,38490,38905,38586,37914,38672,38753,39295,39557,40358,43927,11.2558136,43.7695604
+"Italy","Genova","GDP (Million USD, constant prices, constant PPP, base year 2015)",33375,33211,32601,31565,30725,31577,31807,32123,32697,32337,32876,8.946256,44.4056499
+"Italy","Messina","GDP (Million USD, constant prices, constant PPP, base year 2015)",6867,6723,6969,6787,6613,6565,6365,6378,6428,6409,6390,15.5542057,38.1937335
+"Italy","Milano","GDP (Million USD, constant prices, constant PPP, base year 2015)",279077,294880,295741,286571,279962,283666,287762,294375,299121,304850,304231,9.189982,45.4642035
+"Italy","Modena","GDP (Million USD, constant prices, constant PPP, base year 2015)",17012,17163,17096,16840,16970,17448,17526,18206,18690,18621,18157,10.9252269,44.647128
+"Italy","Napoli","GDP (Million USD, constant prices, constant PPP, base year 2015)",90859,89500,87580,85735,82511,82838,83818,84851,86024,86019,87328,14.26812,40.8517983
+"Italy","Padova","GDP (Million USD, constant prices, constant PPP, base year 2015)",21569,22721,23567,22864,22361,22550,22737,23302,23763,23945,24126,11.8767611,45.4064349
+"Italy","Palermo","GDP (Million USD, constant prices, constant PPP, base year 2015)",27323,27259,26297,25504,25048,24624,25072,24760,25139,24942,24931,13.3614868,38.11569
+"Italy","Parma","GDP (Million USD, constant prices, constant PPP, base year 2015)",15820,16452,16362,16195,15954,16145,16308,16561,16935,17403,17510,10.3279036,44.801485
+"Italy","Perugia","GDP (Million USD, constant prices, constant PPP, base year 2015)",10089,10218,10240,9886,9636,9378,9541,9462,9552,9742,9761,12.3908279,43.1107168
+"Italy","Prato","GDP (Million USD, constant prices, constant PPP, base year 2015)",11449,11023,11197,10834,10863,10804,11034,11382,11757,12075,12048,11.102228,43.8777049
+"Italy","Reggio nell'Emilia","GDP (Million USD, constant prices, constant PPP, base year 2015)",12776,12660,12928,12408,12386,12437,12777,13038,13394,13500,13613,10.6296859,44.6989932
+"Italy","Rimini","GDP (Million USD, constant prices, constant PPP, base year 2015)",9430,9326,10044,9809,9590,9618,9538,9795,10003,10101,10200,12.5695158,44.0678288
+"Italy","Roma","GDP (Million USD, constant prices, constant PPP, base year 2015)",221773,222677,224176,214550,209699,208557,207032,214345,215666,216452,217327,12.4963655,41.9027835
+"Italy","Salerno","GDP (Million USD, constant prices, constant PPP, base year 2015)",6042,5985,6054,6078,5940,5867,5987,5955,6030,6078,6114,14.7680961,40.6824408
+"Italy","Taranto","GDP (Million USD, constant prices, constant PPP, base year 2015)",10081,10355,10634,10415,9601,9894,9486,9869,10023,9821,9752,17.2470303,40.4643606
+"Italy","Torino","GDP (Million USD, constant prices, constant PPP, base year 2015)",72132,74718,76048,71785,72029,71010,71850,73320,75404,76667,75448,7.686864,45.0703393
+"Italy","Venezia","GDP (Million USD, constant prices, constant PPP, base year 2015)",21594,21846,22065,21095,20897,20992,21270,21591,21916,22089,22499,12.3155151,45.4408474
+"Italy","Verona","GDP (Million USD, constant prices, constant PPP, base year 2015)",22575,22107,21981,21691,21526,21437,21736,22325,22911,22843,22964,10.9916215,45.4383842
+"Japan","Akita","GDP (Million USD, constant prices, constant PPP, base year 2015)",11821,12064,12307,12358,12567,12539,12550,12668,13219,12915,13044,140.1034795,39.7199668
+"Japan","Aomori","GDP (Million USD, constant prices, constant PPP, base year 2015)",9482,9709,10022,10093,10081,9957,10260,10260,10154,9977,10022,140.7473524,40.8222197
+"Japan","Asahikawa","GDP (Million USD, constant prices, constant PPP, base year 2015)",12915,13093,13500,13602,14038,14097,14261,14181,14501,14631,14494,142.3650083,43.7708833
+"Japan","Ashikaga","GDP (Million USD, constant prices, constant PPP, base year 2015)",8885,9200,9322,9381,10055,9880,10174,10310,10591,10578,10389,139.4497602,36.3401874
+"Japan","Fuji","GDP (Million USD, constant prices, constant PPP, base year 2015)",16176,16804,17429,17656,18090,17770,17973,18031,18302,18552,18159,-80.992685,34.970328
+"Japan","Fujieda","GDP (Million USD, constant prices, constant PPP, base year 2015)",18754,19466,20197,20474,20976,20602,20829,20901,21204,21489,21032,138.2575386,34.8673376
+"Japan","Fukui","GDP (Million USD, constant prices, constant PPP, base year 2015)",22680,23489,23284,22595,22800,22223,23017,22557,23699,25003,24929,136.219623,36.0641386
+"Japan","Fukuoka","GDP (Million USD, constant prices, constant PPP, base year 2015)",89660,93253,94286,93790,96258,95915,97133,98043,100305,101310,100098,130.4016888,33.5901838
+"Japan","Fukushima","GDP (Million USD, constant prices, constant PPP, base year 2015)",15841,15888,15184,16039,16924,17256,17205,17421,17641,17683,17352,140.4747856,37.7607991
+"Japan","Hachinohe","GDP (Million USD, constant prices, constant PPP, base year 2015)",10028,10261,10607,10700,10717,10594,10891,10895,10804,10632,10666,141.4882743,40.5122055
+"Japan","Hakodate","GDP (Million USD, constant prices, constant PPP, base year 2015)",10472,10616,10946,11029,11382,11430,11563,11498,11758,11863,11752,140.7290599,41.7686961
+"Japan","Hamamatsu","GDP (Million USD, constant prices, constant PPP, base year 2015)",39948,41463,43020,43611,44680,43883,44368,44521,45167,45773,44800,137.7274159,34.7102752
+"Japan","Himeji","GDP (Million USD, constant prices, constant PPP, base year 2015)",23387,24933,25672,25747,26599,26387,27081,27199,27677,27748,27615,134.6855509,34.8154176
+"Japan","Hiroshima","GDP (Million USD, constant prices, constant PPP, base year 2015)",52261,53136,57800,55916,57809,59974,61528,61512,61938,60919,59109,132.4553055,34.3852894
+"Japan","Hitachi","GDP (Million USD, constant prices, constant PPP, base year 2015)",11816,12413,13211,13141,13213,13270,13701,13676,14577,14680,14297,140.6504712,36.5991273
+"Japan","Isesaki","GDP (Million USD, constant prices, constant PPP, base year 2015)",13754,14310,15024,15249,15983,16013,16318,16460,16950,16907,16838,139.1965435,36.3118354
+"Japan","Kagoshima","GDP (Million USD, constant prices, constant PPP, base year 2015)",21021,21563,22136,22200,22787,22535,22986,23239,24292,24019,23868,130.5571392,31.5968539
+"Japan","Kanazawa","GDP (Million USD, constant prices, constant PPP, base year 2015)",25781,26221,27324,27903,29092,29133,29880,29757,30122,30608,29458,136.6520376,36.5597341
+"Japan","Kitakyushu","GDP (Million USD, constant prices, constant PPP, base year 2015)",44632,46370,46867,46637,47874,47687,48277,48752,49880,50228,49625,130.8751773,33.8834976
+"Japan","Kochi","GDP (Million USD, constant prices, constant PPP, base year 2015)",15131,15478,15769,15900,16562,16538,16615,16755,16939,16863,16700,133.5312383,33.5588821
+"Japan","Kofu","GDP (Million USD, constant prices, constant PPP, base year 2015)",20176,21793,22264,21806,22385,22136,22801,22666,23569,24178,23720,138.5683001,35.662133
+"Japan","Koriyama","GDP (Million USD, constant prices, constant PPP, base year 2015)",18353,18407,17593,18583,19608,19992,19933,20183,20438,20487,20104,140.3596822,37.4004776
+"Japan","Kumamoto","GDP (Million USD, constant prices, constant PPP, base year 2015)",33349,34636,36318,36385,37479,36766,37121,38396,39847,39743,39891,130.7079369,32.8032164
+"Japan","Kurume","GDP (Million USD, constant prices, constant PPP, base year 2015)",14419,14981,15142,15067,15467,15407,15597,15751,16115,16228,16033,130.5083557,33.3192356
+"Japan","Kusatsu","GDP (Million USD, constant prices, constant PPP, base year 2015)",14945,15710,15715,15263,15942,15835,16193,16780,17532,17722,17624,138.5960945,36.6207181
+"Japan","Matsumoto","GDP (Million USD, constant prices, constant PPP, base year 2015)",14841,15272,15433,15220,15571,15598,16015,16016,16452,16610,16183,137.9719897,36.2380434
+"Japan","Matsuyama","GDP (Million USD, constant prices, constant PPP, base year 2015)",20205,20951,22845,21265,21931,21411,21783,22378,22977,22561,22468,132.7653057,33.8393515
+"Japan","Mito","GDP (Million USD, constant prices, constant PPP, base year 2015)",26864,28222,30036,29877,30041,30171,31151,31094,33142,33375,32504,140.4713723,36.3658764
+"Japan","Miyazaki","GDP (Million USD, constant prices, constant PPP, base year 2015)",14273,14599,14838,14837,15359,15361,15611,15789,16199,16180,15740,131.4202196,31.9077285
+"Japan","Morioka","GDP (Million USD, constant prices, constant PPP, base year 2015)",14115,14233,15139,15790,16696,16750,16492,16623,17103,17278,16934,141.1543303,39.7019558
+"Japan","Nagano","GDP (Million USD, constant prices, constant PPP, base year 2015)",20183,20770,20988,20699,21177,21214,21781,21782,22375,22590,22009,138.1950371,36.6485258
+"Japan","Nagasaki","GDP (Million USD, constant prices, constant PPP, base year 2015)",19048,19507,20259,20086,20050,19340,20853,21206,21239,21541,21271,129.8778888,32.7503334
+"Japan","Nagoya","GDP (Million USD, constant prices, constant PPP, base year 2015)",361473,364724,389405,407156,418930,421282,427396,424515,435317,441293,425070,136.9065571,35.1814506
+"Japan","Naha","GDP (Million USD, constant prices, constant PPP, base year 2015)",29630,30357,31747,32112,33476,33441,35071,36386,37045,37407,37693,127.6790208,26.2125758
+"Japan","Niigata","GDP (Million USD, constant prices, constant PPP, base year 2015)",27958,28665,29382,29611,30374,29838,30167,30226,30839,31071,30329,139.0363708,37.9161244
+"Japan","Numazu","GDP (Million USD, constant prices, constant PPP, base year 2015)",22566,23422,24302,24635,25239,24789,25063,25149,25514,25857,25307,138.8635399,35.0956068
+"Japan","Obihiro","GDP (Million USD, constant prices, constant PPP, base year 2015)",8552,8670,8939,9007,9295,9334,9443,9390,9602,9688,9597,143.197199,42.9233354
+"Japan","Oita","GDP (Million USD, constant prices, constant PPP, base year 2015)",23845,25818,26142,26057,26209,26070,26797,26150,27202,27909,27068,131.6095148,33.2396084
+"Japan","Okayama","GDP (Million USD, constant prices, constant PPP, base year 2015)",54084,54647,56725,56068,58900,57649,60053,59063,60674,60217,59146,133.919795,34.6555312
+"Japan","Osaka","GDP (Million USD, constant prices, constant PPP, base year 2015)",615514,638508,663932,659986,671888,672621,682808,684945,703476,706198,699108,135.5022535,34.6937249
+"Japan","Sapporo","GDP (Million USD, constant prices, constant PPP, base year 2015)",71208,72188,74432,74994,77399,77724,78626,78189,79951,80668,79911,141.3544506,43.0617713
+"Japan","Sendai","GDP (Million USD, constant prices, constant PPP, base year 2015)",48912,50237,52693,56473,58644,60346,62274,62260,62718,63134,61431,140.869418,38.268195
+"Japan","Shimonoseki","GDP (Million USD, constant prices, constant PPP, base year 2015)",10067,10698,10764,10842,11139,11192,10665,11250,11636,11613,11305,130.9411759,33.9575297
+"Japan","Shizuoka","GDP (Million USD, constant prices, constant PPP, base year 2015)",28970,30069,31198,31626,32402,31823,32176,32287,32755,33194,32489,138.3826773,34.9755668
+"Japan","Takamatsu","GDP (Million USD, constant prices, constant PPP, base year 2015)",20674,20667,22071,22158,21945,21650,21892,22153,22392,22406,22559,134.0465405,34.342542
+"Japan","Takasaki","GDP (Million USD, constant prices, constant PPP, base year 2015)",38892,40461,42481,43106,45175,45254,46113,46510,47897,47779,47580,139.0033576,36.3220692
+"Japan","Tokushima","GDP (Million USD, constant prices, constant PPP, base year 2015)",20085,21102,21834,21482,22513,22724,22664,22455,23026,23156,22914,134.5549537,34.0703652
+"Japan","Tokyo","GDP (Million USD, constant prices, constant PPP, base year 2015)",1616181,1663999,1737966,1751781,1811126,1786313,1810265,1816759,1866528,1887951,1872303,139.650027,35.6764225
+"Japan","Toyama","GDP (Million USD, constant prices, constant PPP, base year 2015)",21769,23365,24273,24059,24434,24733,25282,24618,25363,26217,25894,137.2137211,36.6958223
+"Japan","Toyohashi","GDP (Million USD, constant prices, constant PPP, base year 2015)",29561,29721,32136,33874,34951,35232,35705,35357,36256,36701,35239,137.3916837,34.7688528
+"Japan","Utsunomiya","GDP (Million USD, constant prices, constant PPP, base year 2015)",34369,35505,35336,35403,38389,37344,38663,39272,40296,40269,39269,139.8826209,36.5550745
+"Japan","Wakayama","GDP (Million USD, constant prices, constant PPP, base year 2015)",18061,19225,20377,20474,20963,20194,19504,20379,19654,20178,20141,135.1707405,34.2303678
+"Japan","Yamagata","GDP (Million USD, constant prices, constant PPP, base year 2015)",13008,13521,13731,13925,14575,14266,14458,14765,15569,15440,15316,140.3396175,38.2554153
+"Japan","Yokkaichi","GDP (Million USD, constant prices, constant PPP, base year 2015)",41551,43494,42813,43452,45484,44591,44892,45598,47579,47938,44810,136.6244121,34.9651064
+"Korea","Chuncheon","GDP (Million USD, constant prices, constant PPP, base year 2015)",7888,8062,8301,8563,8898,9426,9627,9951,10284,10553,11072,127.7398952,37.8897796
+"Korea","Dalseong","GDP (Million USD, constant prices, constant PPP, base year 2015)",49036,51092,52953,55007,56955,58745,60435,60796,61338,63138,65222,128.5089708,35.7322821
+"Korea","Deokjin","GDP (Million USD, constant prices, constant PPP, base year 2015)",20301,20889,21880,22237,23229,23907,24126,24090,24289,24783,25686,127.1120644,35.8581862
+"Korea","Gimhae","GDP (Million USD, constant prices, constant PPP, base year 2015)",126076,130499,134131,137453,139438,143494,147474,149119,148725,150344,156278,128.8452281,35.2721355
+"Korea","Gumi","GDP (Million USD, constant prices, constant PPP, base year 2015)",22791,24601,25206,25436,26323,27768,26818,27397,27447,27006,26739,128.3555532,36.207309
+"Korea","Gunsan","GDP (Million USD, constant prices, constant PPP, base year 2015)",6506,6694,7011,7126,7444,7661,7731,7720,7784,7942,8231,126.7366293,35.9676772
+"Korea","Gwangsan","GDP (Million USD, constant prices, constant PPP, base year 2015)",36735,39815,40409,41349,42885,44591,45537,47098,47253,49436,51883,126.7528769,35.1650242
+"Korea","Gyeongsan","GDP (Million USD, constant prices, constant PPP, base year 2015)",11549,12466,12773,12889,13339,14071,13589,13883,13908,13685,13550,128.8090748,35.8337972
+"Korea","Heungdeok","GDP (Million USD, constant prices, constant PPP, base year 2015)",26916,29674,31492,32657,33910,35255,37653,39917,42740,45351,45593,127.3691938,36.6469349
+"Korea","Iksan","GDP (Million USD, constant prices, constant PPP, base year 2015)",7567,7786,8155,8288,8658,8911,8993,8979,9053,9237,9574,126.9894962,36.0230799
+"Korea","Jeju","GDP (Million USD, constant prices, constant PPP, base year 2015)",7614,7804,8430,8998,9425,10135,10988,11901,12427,12411,12677,126.5311884,33.4996213
+"Korea","Jinju","GDP (Million USD, constant prices, constant PPP, base year 2015)",11894,12136,12536,12911,12954,13012,13301,13378,13105,13189,13697,128.1297905,35.205153
+"Korea","Pohan","GDP (Million USD, constant prices, constant PPP, base year 2015)",19520,21071,21589,21786,22546,23783,22969,23466,23508,23131,22902,129.3052666,36.0929227
+"Korea","Sebuk","GDP (Million USD, constant prices, constant PPP, base year 2015)",30965,34899,37349,37689,37233,38026,38577,39907,42212,42004,41616,127.1618233,36.8927021
+"Korea","Seo","GDP (Million USD, constant prices, constant PPP, base year 2015)",36093,38020,39346,40329,40891,42034,43339,44979,45346,45987,48379,129.0148985,35.1030941
+"Korea","Seongsan","GDP (Million USD, constant prices, constant PPP, base year 2015)",37682,38450,39716,40906,41041,41224,42140,42384,41521,41785,43395,128.6715497,35.1988494
+"Korea","Seoul","GDP (Million USD, constant prices, constant PPP, base year 2015)",737146,784949,808698,831283,858134,887726,921421,954275,1000723,1046549,1068013,126.9917937,37.5518911
+"Korea","Suncheon","GDP (Million USD, constant prices, constant PPP, base year 2015)",11168,12670,12801,12901,13157,12988,13093,13348,13444,13687,14081,127.3894958,34.9946567
+"Korea","Ulsan","GDP (Million USD, constant prices, constant PPP, base year 2015)",53722,62398,69260,69724,70267,68530,68990,69324,68806,66575,68056,129.2380554,35.5537228
+"Korea","Wonju","GDP (Million USD, constant prices, constant PPP, base year 2015)",9216,9419,9698,10004,10396,11012,11248,11625,12015,12329,12936,127.9294889,37.3082307
+"Latvia","Riga","GDP (Million USD, constant prices, constant PPP, base year 2015)",27467,26481,26499,28992,30485,31005,32540,33416,34567,36489,36848,24.1056221,56.9676941
+"Lithuania","Kaunas","GDP (Million USD, constant prices, constant PPP, base year 2015)",8740,8948,9678,10066,10421,10860,11150,11662,12238,12786,13356,23.9035965,54.8985207
+"Lithuania","Vilnius","GDP (Million USD, constant prices, constant PPP, base year 2015)",22731,23062,24148,25463,26970,28281,29135,30086,31347,33450,35615,25.2796514,54.6871555
+"Luxembourg","Luxembourg","GDP (Million USD, constant prices, constant PPP, base year 2015)",53095,55092,55667,56585,58380,59911,61271,64322,65168,65963,67494,6.129583,49.815273
+"Malta","Malta","GDP (Million USD, constant prices, constant PPP, base year 2015)",11474,12128,12198,12719,13426,14460,15874,16411,18206,19304,20628,14.375416,35.937496
+"Mexico","Acapulco de Juarez","GDP (Million USD, constant prices, constant PPP, base year 2015)",6244,6499,6487,6481,6695,7037,7327,7486,7384,7513,7578,-99.8822807,16.8639515
+"Mexico","Aguascalientes","GDP (Million USD, constant prices, constant PPP, base year 2015)",13251,13871,14158,14651,15202,16861,18311,20194,20438,21227,21028,-102.2915677,21.8852562
+"Mexico","Ahome","GDP (Million USD, constant prices, constant PPP, base year 2015)",7690,7789,7914,7999,8239,8344,9047,9629,9528,9662,9970,-108.9917304,25.7904061
+"Mexico","Benito Juarez","GDP (Million USD, constant prices, constant PPP, base year 2015)",13137,13533,13680,13990,14795,15900,16871,18315,18393,19131,19218,-102.552784,23.634501
+"Mexico","Cajeme","GDP (Million USD, constant prices, constant PPP, base year 2015)",8410,8756,9519,9704,10162,10477,11329,12186,12272,12312,12113,-109.940064,27.4934041
+"Mexico","Campeche","GDP (Million USD, constant prices, constant PPP, base year 2015)",26785,29289,34596,32179,29860,28333,17450,15755,17203,18464,20251,-90.5349087,19.8301251
+"Mexico","Carmen","GDP (Million USD, constant prices, constant PPP, base year 2015)",23032,25185,29748,27670,25676,24363,15005,13548,14793,15877,17413,-102.552784,23.634501
+"Mexico","Celaya","GDP (Million USD, constant prices, constant PPP, base year 2015)",7130,7604,7996,8187,8625,9260,10120,10482,11045,11299,11001,-100.8112885,20.5279612
+"Mexico","Chihuahua","GDP (Million USD, constant prices, constant PPP, base year 2015)",13687,14134,14137,15014,15452,16279,18429,19642,19818,20047,20255,-106.0697945,28.6333754
+"Mexico","Chilpancingo de los Bravo","GDP (Million USD, constant prices, constant PPP, base year 2015)",2476,2577,2572,2570,2655,2790,2905,2969,2928,2979,3005,-99.5006322,17.5515346
+"Mexico","Coatzacoalcos","GDP (Million USD, constant prices, constant PPP, base year 2015)",4001,4228,4357,4502,4534,4619,4674,4618,4533,4623,4724,-94.4589858,18.1344779
+"Mexico","Colima","GDP (Million USD, constant prices, constant PPP, base year 2015)",4296,4548,4778,4778,5003,5192,5391,5564,5737,5928,6294,-103.7240868,19.2452342
+"Mexico","Cordoba","GDP (Million USD, constant prices, constant PPP, base year 2015)",3819,4036,4159,4297,4328,4409,4461,4408,4327,4412,4509,-96.9237751,18.8838909
+"Mexico","Cuautla","GDP (Million USD, constant prices, constant PPP, base year 2015)",3852,3993,3924,3842,4083,4162,4315,4540,4668,4545,4476,-98.9548261,18.8126047
+"Mexico","Cuernavaca","GDP (Million USD, constant prices, constant PPP, base year 2015)",11578,12003,11795,11550,12273,12512,12970,13647,14032,13661,13453,-99.2215659,18.9242095
+"Mexico","Culiacan","GDP (Million USD, constant prices, constant PPP, base year 2015)",13036,13204,13415,13560,13967,14144,15336,16322,16151,16379,16900,-107.3940117,24.8090649
+"Mexico","Durango","GDP (Million USD, constant prices, constant PPP, base year 2015)",7898,8009,8485,8598,9050,9379,9725,10310,10112,10084,10309,-104.6608131,24.0248409
+"Mexico","Ensenada","GDP (Million USD, constant prices, constant PPP, base year 2015)",8728,8877,8856,9012,9209,9751,11093,11819,11968,12238,12505,-116.2304616,31.8318543
+"Mexico","Guadalajara","GDP (Million USD, constant prices, constant PPP, base year 2015)",73099,77159,78129,79778,83955,89630,95960,101936,102293,104924,106338,-103.3473385,20.6751707
+"Mexico","Guadalupe","GDP (Million USD, constant prices, constant PPP, base year 2015)",4556,5088,5428,5392,5036,5279,5620,5924,5889,5745,5524,-100.2155063,25.6748291
+"Mexico","Hermosillo","GDP (Million USD, constant prices, constant PPP, base year 2015)",16541,17222,18722,19088,19988,20607,22283,23968,24137,24217,23824,-110.9559192,29.0729673
+"Mexico","Irapuato","GDP (Million USD, constant prices, constant PPP, base year 2015)",6482,6913,7269,7443,7841,8418,9200,9529,10041,10272,10001,-101.3544964,20.6786652
+"Mexico","Juarez","GDP (Million USD, constant prices, constant PPP, base year 2015)",20920,21603,21608,22949,23617,24882,28167,30021,30291,30641,30959,-106.4466831,31.7476729
+"Mexico","La Paz","GDP (Million USD, constant prices, constant PPP, base year 2015)",5461,5469,5555,5456,5476,5593,6546,6843,7581,8967,8112,-110.3127531,24.1426408
+"Mexico","Leon","GDP (Million USD, constant prices, constant PPP, base year 2015)",16983,18111,19046,19500,20544,22055,24105,24967,26308,26913,26202,-101.6781837,21.1327508
+"Mexico","Los Cabos","GDP (Million USD, constant prices, constant PPP, base year 2015)",6520,6530,6632,6514,6538,6677,7815,8170,9051,10706,9685,-109.9152149,22.8948129
+"Mexico","Matamoros","GDP (Million USD, constant prices, constant PPP, base year 2015)",8908,8930,8857,8882,9112,9429,10116,10278,10287,10456,10705,-97.5027376,25.8690294
+"Mexico","Mazatlan","GDP (Million USD, constant prices, constant PPP, base year 2015)",6621,6706,6813,6887,7094,7184,7789,8290,8203,8319,8583,-106.4111425,23.2494148
+"Mexico","Merida","GDP (Million USD, constant prices, constant PPP, base year 2015)",17815,18178,18312,18932,19579,20715,21721,23063,23535,24306,24680,-89.5925857,20.9673702
+"Mexico","Mexicali","GDP (Million USD, constant prices, constant PPP, base year 2015)",17107,17399,17359,17664,18049,19111,21742,23166,23457,23986,24510,-115.4522623,32.6245389
+"Mexico","Mexico City","GDP (Million USD, constant prices, constant PPP, base year 2015)",425108,438739,445035,446138,467149,482205,505953,516608,514469,523015,516058,-99.133208,19.4326077
+"Mexico","Minatitlan","GDP (Million USD, constant prices, constant PPP, base year 2015)",3819,4036,4159,4297,4328,4409,4461,4408,4327,4412,4509,-94.5466067,17.9939225
+"Mexico","Monclova","GDP (Million USD, constant prices, constant PPP, base year 2015)",5911,6785,7241,7438,7382,7810,8319,8664,9023,9174,9122,-101.4215236,26.9080378
+"Mexico","Monterrey","GDP (Million USD, constant prices, constant PPP, base year 2015)",121205,128334,130082,132022,134269,141591,154263,158498,162547,168723,171995,-100.3161126,25.6866142
+"Mexico","Morelia","GDP (Million USD, constant prices, constant PPP, base year 2015)",8367,8637,9172,9071,9386,10052,10307,10996,11449,11591,11690,-101.1949825,19.7059504
+"Mexico","Nogales","GDP (Million USD, constant prices, constant PPP, base year 2015)",4567,4755,5169,5270,5519,5690,6152,6617,6664,6686,6578,-110.9381047,31.3011855
+"Mexico","Nuevo Laredo","GDP (Million USD, constant prices, constant PPP, base year 2015)",7138,7156,7097,7118,7302,7556,8106,8237,8244,8379,8579,-99.549573,27.4779362
+"Mexico","Oaxaca de Juarez","GDP (Million USD, constant prices, constant PPP, base year 2015)",6171,6465,6584,6743,6670,7087,7623,7123,7247,7786,7446,-96.7265889,17.0731842
+"Mexico","Orizaba","GDP (Million USD, constant prices, constant PPP, base year 2015)",5456,5765,5942,6139,6183,6298,6373,6297,6182,6304,6442,-97.1036396,18.8504744
+"Mexico","Pachuca de Soto","GDP (Million USD, constant prices, constant PPP, base year 2015)",5599,6100,6323,6703,6702,7306,8113,8032,8558,8998,8655,-98.7591311,20.1010608
+"Mexico","Poza Rica de Hidalgo","GDP (Million USD, constant prices, constant PPP, base year 2015)",5820,6150,6338,6548,6595,6718,6798,6717,6594,6724,6871,-97.4629119,20.5270592
+"Mexico","Puebla","GDP (Million USD, constant prices, constant PPP, base year 2015)",24605,26247,27145,28161,28427,29146,30882,31824,32504,33002,32829,-98.2062727,19.0414398
+"Mexico","Puerto Vallarta","GDP (Million USD, constant prices, constant PPP, base year 2015)",4094,4321,4375,4468,4701,5019,5374,5708,5728,5876,5955,-105.211358,20.6565177
+"Mexico","Queretaro","GDP (Million USD, constant prices, constant PPP, base year 2015)",25502,26751,28248,28519,29415,31490,34487,36561,37597,38618,38334,-100.3898881,20.5887932
+"Mexico","Reynosa","GDP (Million USD, constant prices, constant PPP, base year 2015)",14338,14374,14255,14297,14666,15176,16282,16544,16558,16829,17231,-98.2978951,26.0508406
+"Mexico","Salamanca","GDP (Million USD, constant prices, constant PPP, base year 2015)",3111,3318,3489,3573,3764,4041,4416,4574,4820,4931,4800,-101.1957172,20.5739314
+"Mexico","Saltillo","GDP (Million USD, constant prices, constant PPP, base year 2015)",15233,17483,18660,19167,19022,20125,21437,22327,23251,23640,23508,-100.973678,25.4383234
+"Mexico","San Juan del Rio","GDP (Million USD, constant prices, constant PPP, base year 2015)",4889,5120,5409,5453,5613,6007,6580,6992,7172,7370,7331,-99.9856344,20.3951106
+"Mexico","San Luis Potosi","GDP (Million USD, constant prices, constant PPP, base year 2015)",16769,17588,18282,18685,19409,20445,22214,23285,24412,25584,25711,-100.9733024,22.1520892
+"Mexico","Tampico","GDP (Million USD, constant prices, constant PPP, base year 2015)",13815,13884,13796,13857,14202,14684,15709,15941,15941,16204,16590,-97.861099,22.2331041
+"Mexico","Tapachula","GDP (Million USD, constant prices, constant PPP, base year 2015)",2260,2386,2440,2446,2445,2568,2543,2558,2402,2308,2275,-92.2634136,14.9055567
+"Mexico","Tehuacan","GDP (Million USD, constant prices, constant PPP, base year 2015)",3174,3380,3523,3659,3698,3782,3993,4127,4235,4291,4251,-97.4003801,18.4665063
+"Mexico","Tepic","GDP (Million USD, constant prices, constant PPP, base year 2015)",4899,5160,5253,5081,5330,5683,6114,6467,6502,6479,6586,-104.8945887,21.5041651
+"Mexico","Tijuana","GDP (Million USD, constant prices, constant PPP, base year 2015)",28685,29175,29108,29621,30267,32047,36458,38846,39334,40222,41101,-117.0382471,32.5149469
+"Mexico","Tlaxcala","GDP (Million USD, constant prices, constant PPP, base year 2015)",2919,3161,3028,3106,3098,3257,3574,3581,3481,3615,3751,-98.2374954,19.318154
+"Mexico","Toluca","GDP (Million USD, constant prices, constant PPP, base year 2015)",21337,22685,23343,23776,25025,26133,27807,28683,29175,29881,29241,-99.6556653,19.2826098
+"Mexico","Torreon","GDP (Million USD, constant prices, constant PPP, base year 2015)",19496,21533,22932,23462,23697,24915,26327,27565,28206,28521,28586,-103.4067861,25.5428443
+"Mexico","Tulancingo de Bravo","GDP (Million USD, constant prices, constant PPP, base year 2015)",2290,2496,2587,2742,2742,2989,3319,3286,3501,3681,3541,-98.3690922,20.0904802
+"Mexico","Tuxtla Gutierrez","GDP (Million USD, constant prices, constant PPP, base year 2015)",3904,4121,4214,4224,4223,4435,4392,4418,4148,3986,3930,-93.1029939,16.7516009
+"Mexico","Uruapan","GDP (Million USD, constant prices, constant PPP, base year 2015)",3169,3271,3474,3436,3555,3808,3904,4165,4337,4391,4428,-102.0430476,19.4064492
+"Mexico","Veracruz","GDP (Million USD, constant prices, constant PPP, base year 2015)",9729,10282,10596,10947,11026,11232,11365,11229,11024,11241,11488,-96.1342241,19.173773
+"Mexico","Victoria","GDP (Million USD, constant prices, constant PPP, base year 2015)",6101,6116,6066,6084,6241,6458,6929,7040,7046,7161,7332,-99.1411154,23.7369164
+"Mexico","Villahermosa","GDP (Million USD, constant prices, constant PPP, base year 2015)",24218,27427,32036,31655,29643,30286,24189,22437,22543,21551,21906,-92.9475061,17.989456
+"Mexico","Xalapa","GDP (Million USD, constant prices, constant PPP, base year 2015)",9093,9609,9903,10231,10304,10498,10622,10495,10303,10506,10737,-96.9101806,19.5437751
+"Mexico","Zamora","GDP (Million USD, constant prices, constant PPP, base year 2015)",2366,2443,2594,2566,2655,2843,2915,3110,3238,3278,3306,-102.2834075,19.9901766
+"Netherlands","'s-Gravenhage","GDP (Million USD, constant prices, constant PPP, base year 2015)",56727,57664,56662,56265,55759,56411,57348,58375,58450,59166,60644,4.3006999,52.0704978
+"Netherlands","'s-Hertogenbosch","GDP (Million USD, constant prices, constant PPP, base year 2015)",12995,12580,12738,12964,12529,12817,13126,13539,13966,14171,14532,5.3036748,51.6978162
+"Netherlands","Alkmaar","GDP (Million USD, constant prices, constant PPP, base year 2015)",10783,10725,10975,10805,10649,10953,10883,11080,11151,11338,11765,4.7533754,52.6323813
+"Netherlands","Amsterdam","GDP (Million USD, constant prices, constant PPP, base year 2015)",163586,168213,169940,168306,170596,177085,183138,190176,196106,202955,209178,4.9041389,52.3675734
+"Netherlands","Apeldoorn","GDP (Million USD, constant prices, constant PPP, base year 2015)",9740,9780,10296,9984,9941,10146,10254,10594,11032,11273,11543,5.9699231,52.211157
+"Netherlands","Arnhem","GDP (Million USD, constant prices, constant PPP, base year 2015)",17730,17694,18165,17773,17583,17912,18153,18562,19032,19538,19856,5.8987296,51.9851034
+"Netherlands","Breda","GDP (Million USD, constant prices, constant PPP, base year 2015)",17042,17165,17693,17372,17291,17490,18003,18342,19028,19521,19608,4.768323,51.5719149
+"Netherlands","Eindhoven","GDP (Million USD, constant prices, constant PPP, base year 2015)",34513,37783,39268,38504,38839,40250,42198,43250,45615,46586,47624,5.4622897,51.4231423
+"Netherlands","Enschede","GDP (Million USD, constant prices, constant PPP, base year 2015)",15670,15618,16070,15486,15355,15499,15723,16259,16704,17157,17593,6.8936619,52.2215372
+"Netherlands","Groningen","GDP (Million USD, constant prices, constant PPP, base year 2015)",31027,31809,32705,33658,34244,31908,30196,28160,28465,28367,27951,6.5665018,53.2193835
+"Netherlands","Heerlen","GDP (Million USD, constant prices, constant PPP, base year 2015)",10344,10720,10973,10606,10549,10624,11190,11789,11961,12081,12205,5.98035,50.8859774
+"Netherlands","Leiden","GDP (Million USD, constant prices, constant PPP, base year 2015)",15579,15460,15717,15892,15736,15205,15074,15063,15240,15570,15561,4.4970097,52.1601144
+"Netherlands","Nijmegen","GDP (Million USD, constant prices, constant PPP, base year 2015)",13580,13532,13886,13622,13467,13719,13911,14238,14607,14982,15231,5.8372264,51.8125626
+"Netherlands","Rotterdam","GDP (Million USD, constant prices, constant PPP, base year 2015)",89931,91000,90900,91328,90010,90251,93764,95597,98035,99523,100488,4.4777325,51.9244201
+"Netherlands","Tilburg","GDP (Million USD, constant prices, constant PPP, base year 2015)",12631,12657,13008,12661,12645,12990,13325,13701,14209,14600,14913,5.056375,51.5852528
+"Netherlands","Utrecht","GDP (Million USD, constant prices, constant PPP, base year 2015)",50724,50723,50815,50257,50346,51141,51931,52820,55160,56762,58940,5.1214201,52.0907374
+"Netherlands","Zwolle","GDP (Million USD, constant prices, constant PPP, base year 2015)",14539,14497,15045,14627,14657,15125,15330,15888,16379,16947,17238,6.0830219,52.5167747
+"New Zealand","Auckland","GDP (Million USD, constant prices, constant PPP, base year 2015)",51001,51335,53068,55125,55472,59379,63923,66574,68973,71922,73123,174.7644881,-36.8508827
+"New Zealand","Christchurch","GDP (Million USD, constant prices, constant PPP, base year 2015)",14048,14245,14706,15454,16308,16943,17368,17509,18325,18861,19384,172.6305589,-43.5320214
+"New Zealand","Wellington","GDP (Million USD, constant prices, constant PPP, base year 2015)",16857,16630,17170,17539,17449,18088,18598,18959,19392,19835,20755,174.7787463,-41.2923814
+"Norway","Bergen","GDP (Million USD, constant prices, constant PPP, base year 2015)",18031,17550,17359,17905,18639,19479,20631,21583,21068,20227,20956,5.3220544,60.3912628
+"Norway","Oslo","GDP (Million USD, constant prices, constant PPP, base year 2015)",77710,78066,76342,79406,81832,85767,91946,97674,97546,95107,102026,10.7522454,59.9138688
+"Norway","Stavanger","GDP (Million USD, constant prices, constant PPP, base year 2015)",15823,16440,15303,16018,16835,17490,18980,18212,17713,17277,18924,5.7331073,58.9699756
+"Norway","Trondheim","GDP (Million USD, constant prices, constant PPP, base year 2015)",10368,10524,10199,10614,10990,11480,12578,13475,13706,13465,14057,10.3950528,63.4305149
+"Poland","Białystok","GDP (Million USD, constant prices, constant PPP, base year 2015)",8044,8230,8549,8727,8806,9099,9338,9591,10052,10683,11242,23.1688403,53.1324886
+"Poland","Bielsko-Biała","GDP (Million USD, constant prices, constant PPP, base year 2015)",8058,8086,8480,8699,8729,9300,10075,10468,10803,11376,11764,19.0583845,49.8223768
+"Poland","Bydgoszcz","GDP (Million USD, constant prices, constant PPP, base year 2015)",11572,11697,12103,12341,12307,12742,13369,13753,14247,15081,15478,18.0084378,53.1234804
+"Poland","Częstochowa","GDP (Million USD, constant prices, constant PPP, base year 2015)",7610,7769,8212,8286,8346,8667,9082,9436,9942,10469,11043,19.1203094,50.8118195
+"Poland","Gdańsk","GDP (Million USD, constant prices, constant PPP, base year 2015)",29383,29970,31909,33438,33175,33606,36000,37674,39810,43197,45562,18.6466384,54.3520252
+"Poland","Katowice","GDP (Million USD, constant prices, constant PPP, base year 2015)",67298,68283,71606,71573,70845,73099,75487,77102,80583,85470,87750,19.0237815,50.2648919
+"Poland","Kielce","GDP (Million USD, constant prices, constant PPP, base year 2015)",7476,7501,7773,7793,7709,7943,8192,8335,8733,9341,9475,20.6285677,50.8660773
+"Poland","Kraków","GDP (Million USD, constant prices, constant PPP, base year 2015)",35565,36414,38679,39298,40634,42630,45445,47800,51026,54739,57232,19.9449799,50.0646501
+"Poland","Łódź","GDP (Million USD, constant prices, constant PPP, base year 2015)",24059,24913,25452,25761,26044,27146,28266,28501,29909,32336,34057,19.4559833,51.7592485
+"Poland","Lublin","GDP (Million USD, constant prices, constant PPP, base year 2015)",13216,13561,14081,14928,15413,15974,16133,16714,17540,18407,19297,22.5684463,51.2464536
+"Poland","Nowy Sącz","GDP (Million USD, constant prices, constant PPP, base year 2015)",3681,3618,3868,3890,3895,4184,4348,4368,4634,5118,5337,20.7153326,49.6174535
+"Poland","Olsztyn","GDP (Million USD, constant prices, constant PPP, base year 2015)",4652,4756,5007,5051,5181,5345,5481,5633,5742,5972,6225,20.4801193,53.778422
+"Poland","Opole","GDP (Million USD, constant prices, constant PPP, base year 2015)",5280,5327,5567,5567,5591,5878,6107,6143,6427,6802,7062,17.9230651,50.6683223
+"Poland","Poznań","GDP (Million USD, constant prices, constant PPP, base year 2015)",35157,35309,36794,37737,38905,40302,42139,43948,46292,48238,51343,16.9251681,52.406374
+"Poland","Radom","GDP (Million USD, constant prices, constant PPP, base year 2015)",4540,4620,4841,4879,4899,5122,5318,5287,5627,5929,6281,21.1471333,51.4027236
+"Poland","Rzeszów","GDP (Million USD, constant prices, constant PPP, base year 2015)",8896,9173,9815,10200,10487,10866,11611,11819,12335,13293,14047,21.9991196,50.0411867
+"Poland","Szczecin","GDP (Million USD, constant prices, constant PPP, base year 2015)",12494,12567,13067,13221,13247,13875,14620,14764,15469,16644,17138,14.5528116,53.4285438
+"Poland","Tarnów","GDP (Million USD, constant prices, constant PPP, base year 2015)",4364,4547,5036,5069,4883,4984,5229,5266,5559,5835,6023,20.9858407,50.0121011
+"Poland","Toruń","GDP (Million USD, constant prices, constant PPP, base year 2015)",7517,7592,7858,8035,8009,8287,8711,8960,9271,9797,10076,18.5984437,53.0137902
+"Poland","Wałbrzych","GDP (Million USD, constant prices, constant PPP, base year 2015)",3935,3907,4057,4035,4004,4216,4376,4512,4627,4846,4958,16.2843553,50.7840092
+"Poland","Warszawa","GDP (Million USD, constant prices, constant PPP, base year 2015)",139628,146254,152437,156623,160389,167204,173695,179735,191417,204634,216461,21.0122287,52.2296756
+"Poland","Wrocław","GDP (Million USD, constant prices, constant PPP, base year 2015)",26052,26917,28278,29298,30459,32159,34014,35481,37855,40838,43440,17.0385376,51.1078852
+"Portugal","Braga","GDP (Million USD, constant prices, constant PPP, base year 2015)",5756,5804,5732,5668,5695,5856,5964,6248,6520,6750,7129,-8.426507,41.5454486
+"Portugal","Coimbra","GDP (Million USD, constant prices, constant PPP, base year 2015)",7624,7837,7668,7289,7173,7126,7392,7490,7658,7951,8047,-8.4102573,40.2033145
+"Portugal","Lisboa","GDP (Million USD, constant prices, constant PPP, base year 2015)",122608,124145,121865,115383,113651,113244,114121,115776,119863,123105,127290,-9.1393366,38.7222524
+"Portugal","Porto","GDP (Million USD, constant prices, constant PPP, base year 2015)",35324,36067,35488,34316,33985,34717,35412,36268,37724,39027,40006,-8.6291053,41.1579438
+"Romania","Braşov","GDP (Million USD, constant prices, constant PPP, base year 2015)",7714,7814,7870,8564,8381,8693,8898,9526,10154,10813,11064,25.5887252,45.6426802
+"Romania","Bucureşti","GDP (Million USD, constant prices, constant PPP, base year 2015)",93917,92254,101143,102865,104625,106946,115578,117027,126553,132684,141329,26.1025384,44.4267674
+"Romania","Cǎlǎraşi","GDP (Million USD, constant prices, constant PPP, base year 2015)",791,849,821,815,867,827,841,855,912,980,1005,24.96676,45.943161
+"Romania","Cluj-Napoca","GDP (Million USD, constant prices, constant PPP, base year 2015)",8588,8169,8455,9313,9427,10056,10154,11252,13023,13577,14420,23.6236353,46.7712101
+"Romania","Constanţa","GDP (Million USD, constant prices, constant PPP, base year 2015)",7978,7695,8913,9260,9997,10971,10216,10302,10493,10833,10344,28.6519359,44.1759147
+"Romania","Craiova","GDP (Million USD, constant prices, constant PPP, base year 2015)",4396,4211,4349,4283,4221,4444,4475,4477,4960,5410,5753,23.7948808,44.3301785
+"Romania","Iaşi","GDP (Million USD, constant prices, constant PPP, base year 2015)",5663,5674,5528,5791,5982,6395,6505,6755,7894,8264,8825,27.6014418,47.1584549
+"Romania","Timişoara","GDP (Million USD, constant prices, constant PPP, base year 2015)",8893,9293,9486,9065,9191,9314,10143,10515,10793,11604,12186,21.2086793,45.7488716
+"Slovak Republic","Bratislava","GDP (Million USD, constant prices, constant PPP, base year 2015)",38746,41081,41873,41644,43199,43641,46492,47950,49063,50825,51224,17.1077477,48.1485965
+"Slovak Republic","Košice","GDP (Million USD, constant prices, constant PPP, base year 2015)",6923,7501,7645,7853,7898,8207,8808,8730,9533,9675,9763,21.2610746,48.7163857
+"Slovenia","Osrednjeslovenska","GDP (Million USD, constant prices, constant PPP, base year 2015)",23205,23442,23562,23152,22834,23460,23883,24843,25976,27338,28393,14.995463,46.151241
+"Slovenia","Podravska","GDP (Million USD, constant prices, constant PPP, base year 2015)",8247,8252,8353,8111,7999,8293,8371,8551,8851,9207,9606,14.995463,46.151241
+"Spain","A Coruña","GDP (Million USD, constant prices, constant PPP, base year 2015)",13172,13328,13036,12543,12486,12421,13008,13445,13625,14032,14136,-8.4115401,43.3623436
+"Spain","Alicante/Alacant","GDP (Million USD, constant prices, constant PPP, base year 2015)",12131,11937,11534,11045,10918,11262,11623,12132,12540,12730,13027,-0.4906855,38.3459963
+"Spain","Barcelona","GDP (Million USD, constant prices, constant PPP, base year 2015)",198356,199202,196512,191070,189268,193326,200918,209047,217199,222925,229000,2.168568,41.3873974
+"Spain","Bilbao","GDP (Million USD, constant prices, constant PPP, base year 2015)",43633,44173,43396,42335,41331,42284,43839,44803,45136,46195,47042,-2.9349852,43.2630126
+"Spain","Cádiz","GDP (Million USD, constant prices, constant PPP, base year 2015)",5704,5781,5761,5547,5406,5364,5510,5673,5870,5958,6104,-6.2804565,36.5210142
+"Spain","Castellón de la Plana/Castelló de la Plana","GDP (Million USD, constant prices, constant PPP, base year 2015)",7633,7661,7786,7295,7241,7312,7773,8097,8729,8712,8828,-0.0559939,40.0017505
+"Spain","Córdoba","GDP (Million USD, constant prices, constant PPP, base year 2015)",9077,8985,8870,8368,8429,8483,8926,9047,9298,9320,9135,-4.7793835,37.8881751
+"Spain","Elche/Elx","GDP (Million USD, constant prices, constant PPP, base year 2015)",7169,7054,6815,6527,6452,6655,6868,7169,7410,7523,7698,-0.7125608,38.2699329
+"Spain","Gijón","GDP (Million USD, constant prices, constant PPP, base year 2015)",9288,9353,9207,8801,8522,8504,8749,8844,9094,9233,9291,-5.6611195,43.5322015
+"Spain","Granada","GDP (Million USD, constant prices, constant PPP, base year 2015)",13982,13856,13836,13543,13386,13836,14453,14435,14653,14913,15327,-3.5984368,37.1774605
+"Spain","Madrid","GDP (Million USD, constant prices, constant PPP, base year 2015)",305249,302890,304852,299851,294111,298125,311189,322665,333813,342879,353490,-3.7037902,40.4167754
+"Spain","Málaga","GDP (Million USD, constant prices, constant PPP, base year 2015)",21674,21603,21263,20359,20085,20716,21543,21969,22774,23461,24124,-4.4217199,36.7211784
+"Spain","Marbella","GDP (Million USD, constant prices, constant PPP, base year 2015)",7377,7353,7238,6930,6837,7051,7333,7478,7752,7986,8212,-4.8852579,36.5102831
+"Spain","Murcia","GDP (Million USD, constant prices, constant PPP, base year 2015)",17898,18028,17594,17143,17129,17264,18306,18796,19297,19405,19882,-1.1306544,37.9922399
+"Spain","Oviedo","GDP (Million USD, constant prices, constant PPP, base year 2015)",10313,10384,10223,9772,9462,9442,9714,9820,10097,10251,10316,-5.8485461,43.3622522
+"Spain","Palma de Mallorca","GDP (Million USD, constant prices, constant PPP, base year 2015)",25637,25530,25306,24824,24664,25416,26635,27967,29043,29904,30570,2.6501603,39.5696005
+"Spain","Palmas de Gran Canaria, Las","GDP (Million USD, constant prices, constant PPP, base year 2015)",17728,17537,17353,16692,16616,16598,16811,17691,18218,18666,18906,-15.4653897,28.1008837
+"Spain","Pamplona/Iruña","GDP (Million USD, constant prices, constant PPP, base year 2015)",15697,15741,15716,15155,15066,15336,15806,16267,16732,16978,17411,-1.6457745,42.812526
+"Spain","San Sebastián/Donostia","GDP (Million USD, constant prices, constant PPP, base year 2015)",14887,15103,15068,14751,14431,14540,14942,15321,16174,16416,16797,-1.9812313,43.318334
+"Spain","Santa Cruz de Tenerife","GDP (Million USD, constant prices, constant PPP, base year 2015)",14733,15234,15171,14712,14440,14613,15171,15478,16134,16475,16770,-16.2518467,28.4636296
+"Spain","Santander","GDP (Million USD, constant prices, constant PPP, base year 2015)",12515,12543,12336,11904,11576,11794,11984,12332,12645,12976,13198,-3.8226402,43.4636346
+"Spain","Sevilla","GDP (Million USD, constant prices, constant PPP, base year 2015)",43285,43020,42883,41981,40616,41502,42511,43229,44604,45591,46371,-5.9844589,37.3890924
+"Spain","Tarragona","GDP (Million USD, constant prices, constant PPP, base year 2015)",8041,8212,8076,7813,7695,7864,8294,8652,8941,8892,8947,1.2444909,41.1188827
+"Spain","Valencia","GDP (Million USD, constant prices, constant PPP, base year 2015)",55617,55702,55108,52850,52158,53344,54762,55502,56466,58504,59639,-0.3762881,39.4699075
+"Spain","Valladolid","GDP (Million USD, constant prices, constant PPP, base year 2015)",14763,15207,14969,14487,14302,14557,15044,15785,16316,16851,16888,-4.7245321,41.652251
+"Spain","Vigo","GDP (Million USD, constant prices, constant PPP, base year 2015)",16288,16022,15596,15080,15100,15400,15913,16258,17093,17155,17581,-8.7207268,42.2405989
+"Spain","Vitoria/Gasteiz","GDP (Million USD, constant prices, constant PPP, base year 2015)",13519,13449,13567,13217,13293,13704,13954,14730,15009,15288,15158,-2.6732421,42.8531869
+"Spain","Zaragoza","GDP (Million USD, constant prices, constant PPP, base year 2015)",28890,29032,28616,27420,27284,27673,28260,29165,30422,31178,31801,-0.8890853,41.6488226
+"Sweden","Göteborg","GDP (Million USD, constant prices, constant PPP, base year 2015)",39278,41185,42757,42300,42974,44363,47458,48591,50234,50387,51285,11.97456,57.70887
+"Sweden","Malmö","GDP (Million USD, constant prices, constant PPP, base year 2015)",23224,25065,25529,25371,25787,26660,27540,28078,29356,29447,30238,13.003822,55.604981
+"Sweden","Stockholm","GDP (Million USD, constant prices, constant PPP, base year 2015)",126496,129843,135848,135875,138764,144654,152971,154944,155970,160522,166215,18.0685808,59.3293235
+"Sweden","Uppsala","GDP (Million USD, constant prices, constant PPP, base year 2015)",11077,11474,11950,12072,12612,12784,13018,13409,14036,14207,14630,17.6389267,59.8585638
+"Switzerland","Basel","GDP (Million USD, constant prices, constant PPP, base year 2015)",41057,41793,42747,42431,43037,44539,45947,48309,50134,50912,51189,7.5885761,47.5595986
+"Switzerland","Bern","GDP (Million USD, constant prices, constant PPP, base year 2015)",27356,28182,28658,28744,29287,30009,30328,30435,30774,31266,31915,7.4474468,46.9479739
+"Switzerland","Genève","GDP (Million USD, constant prices, constant PPP, base year 2015)",40242,41841,42040,42978,43506,44037,44358,45213,46049,47937,48553,6.1431577,46.2043907
+"Switzerland","Lausanne","GDP (Million USD, constant prices, constant PPP, base year 2015)",18860,19896,20222,21471,20989,21777,21920,23458,22799,23930,24060,6.6322734,46.5196535
+"Switzerland","Zürich","GDP (Million USD, constant prices, constant PPP, base year 2015)",102647,104739,106209,107536,108910,111738,113294,115249,117596,122942,121986,8.541694,47.3768866
+"Türkiye","Adana","GDP (Million USD, constant prices, constant PPP, base year 2015)",13039,14322,15615,16490,17805,18272,19451,20342,21180,20940,21438,35.3308285,36.9914194
+"Türkiye","Ankara","GDP (Million USD, constant prices, constant PPP, base year 2015)",112443,119273,131598,136572,153410,156261,164177,175286,181010,180572,188405,32.8597419,39.9333635
+"Türkiye","Antalya","GDP (Million USD, constant prices, constant PPP, base year 2015)",23574,26591,29628,30492,32849,35070,36485,32987,36480,41855,44570,30.7133233,36.8968908
+"Türkiye","Balikesir","GDP (Million USD, constant prices, constant PPP, base year 2015)",5795,6265,6646,6873,6829,7326,7682,8038,8454,8738,8858,27.8903423,39.6532976
+"Türkiye","Bursa","GDP (Million USD, constant prices, constant PPP, base year 2015)",35263,37941,43476,44642,48314,50960,54105,55680,60866,64833,63326,29.0609636,40.1885281
+"Türkiye","Denizli","GDP (Million USD, constant prices, constant PPP, base year 2015)",8720,9622,10984,11283,12046,12912,13221,14094,15059,15500,15426,29.0963328,37.7830159
+"Türkiye","Diyarbakir","GDP (Million USD, constant prices, constant PPP, base year 2015)",7713,8602,9605,10253,11477,11325,11965,12192,12837,12746,13357,40.2109826,37.9249733
+"Türkiye","Erzurum","GDP (Million USD, constant prices, constant PPP, base year 2015)",3340,3782,3916,4177,4391,4465,4730,5055,5321,5068,5027,41.2658236,39.9054993
+"Türkiye","Gaziantep","GDP (Million USD, constant prices, constant PPP, base year 2015)",14541,16287,18897,21532,24706,26548,29327,30022,32581,34402,34409,37.37811,37.065953
+"Türkiye","Hatay","GDP (Million USD, constant prices, constant PPP, base year 2015)",5440,5847,6598,6580,7233,7667,8091,8574,9435,9824,9048,36.1618938,36.2042794
+"Türkiye","Istanbul","GDP (Million USD, constant prices, constant PPP, base year 2015)",349826,370612,416556,444356,490485,518157,553307,570951,617348,630094,633155,28.9783589,41.0082376
+"Türkiye","Izmir","GDP (Million USD, constant prices, constant PPP, base year 2015)",53158,58224,65140,67834,72296,75007,78345,82728,90172,95066,92850,27.142826,38.423734
+"Türkiye","Kayseri","GDP (Million USD, constant prices, constant PPP, base year 2015)",15164,16412,18151,19038,20653,21596,22635,23587,25104,25195,25671,35.482597,38.720489
+"Türkiye","Kocaeli","GDP (Million USD, constant prices, constant PPP, base year 2015)",18404,19701,23353,23924,26605,27867,29858,30399,34743,37680,34881,29.9408089,40.7654408
+"Türkiye","Konya","GDP (Million USD, constant prices, constant PPP, base year 2015)",16067,17235,19666,20975,22787,24369,25758,26485,28290,29124,29383,32.4931554,37.8746429
+"Türkiye","Malatya","GDP (Million USD, constant prices, constant PPP, base year 2015)",4845,5268,6021,6223,6671,6841,7443,7486,7951,8055,8251,38.3335247,38.3553627
+"Türkiye","Manisa","GDP (Million USD, constant prices, constant PPP, base year 2015)",5977,6611,7209,7500,7856,8206,8794,9264,9887,10543,10407,27.4295624,38.6140337
+"Türkiye","Samsun","GDP (Million USD, constant prices, constant PPP, base year 2015)",6770,7447,7994,8426,8646,9117,9939,10081,10532,10227,10561,36.3360667,41.2797031
+"Türkiye","Trabzon","GDP (Million USD, constant prices, constant PPP, base year 2015)",4970,5468,5855,6135,6277,6739,7216,7429,7562,7457,7587,39.7167633,41.0026969
+"Türkiye","Van","GDP (Million USD, constant prices, constant PPP, base year 2015)",3073,3454,3700,4794,4272,4298,4573,5072,5411,5297,5435,43.3729793,38.5012085
+"United Kingdom","Aberdeen","GDP (Million USD, constant prices, constant PPP, base year 2015)",24644,25560,26013,27172,28657,29657,28647,26156,25498,25311,25072,-2.0937528,57.1498891
+"United Kingdom","Belfast","GDP (Million USD, constant prices, constant PPP, base year 2015)",27639,27545,28179,28436,28649,29160,30080,31527,32463,33038,33781,-5.93012,54.597285
+"United Kingdom","Blackburn with Darwen","GDP (Million USD, constant prices, constant PPP, base year 2015)",8467,8813,8987,9136,9205,9473,9909,10216,10248,10124,10119,-2.4682985,53.6957522
+"United Kingdom","Blackpool","GDP (Million USD, constant prices, constant PPP, base year 2015)",9111,9407,9505,9587,9681,9859,10419,10627,10751,10722,10983,-3.0370485,53.8167423
+"United Kingdom","Bournemouth","GDP (Million USD, constant prices, constant PPP, base year 2015)",16985,17223,17395,17453,18019,18540,18667,19278,20314,20166,20442,-1.8667169,50.7220101
+"United Kingdom","Brighton and Hove","GDP (Million USD, constant prices, constant PPP, base year 2015)",13993,14279,14483,15116,15701,16211,16626,17227,17616,17924,18316,-0.137047,50.8226288
+"United Kingdom","Bristol","GDP (Million USD, constant prices, constant PPP, base year 2015)",36514,38049,38266,39372,39558,41498,42319,44050,45200,45162,46323,-2.58791,51.454513
+"United Kingdom","Cambridge","GDP (Million USD, constant prices, constant PPP, base year 2015)",14035,14590,14820,15275,15429,15864,16337,16733,17265,17238,17893,0.1312729,52.1950788
+"United Kingdom","Cardiff","GDP (Million USD, constant prices, constant PPP, base year 2015)",26841,27494,28334,29012,29333,29885,30414,31470,31893,32123,32773,-3.1680962,51.483707
+"United Kingdom","Cheshire West and Chester","GDP (Million USD, constant prices, constant PPP, base year 2015)",18598,19536,19794,19836,20270,20796,20672,21358,22147,22359,23015,-2.7151117,53.2302974
+"United Kingdom","Colchester","GDP (Million USD, constant prices, constant PPP, base year 2015)",7920,8325,8358,8495,8536,8958,9535,10069,10722,10638,10542,0.891874,51.895927
+"United Kingdom","Coventry","GDP (Million USD, constant prices, constant PPP, base year 2015)",25010,26239,27071,27975,29048,30544,32252,33497,34456,34634,34360,-1.5089521,52.4128163
+"United Kingdom","Derby","GDP (Million USD, constant prices, constant PPP, base year 2015)",15751,16447,17162,17277,17703,17558,17629,17916,17833,18501,18923,-1.4746186,52.9225301
+"United Kingdom","Doncaster","GDP (Million USD, constant prices, constant PPP, base year 2015)",7252,7553,7653,7775,7826,8129,8498,8556,8890,8917,8998,-1.128462,53.52282
+"United Kingdom","Dundee City","GDP (Million USD, constant prices, constant PPP, base year 2015)",7603,7733,7949,8031,8137,8386,8388,8449,8445,8601,8819,-2.970721,56.462018
+"United Kingdom","Edinburgh","GDP (Million USD, constant prices, constant PPP, base year 2015)",39094,39184,39726,40316,41000,42178,43247,45365,47194,48249,48966,-3.188267,55.953252
+"United Kingdom","Exeter","GDP (Million USD, constant prices, constant PPP, base year 2015)",13763,14381,14513,14699,15015,15453,15941,16115,16660,16718,16955,-3.5274889,50.7260367
+"United Kingdom","Glasgow","GDP (Million USD, constant prices, constant PPP, base year 2015)",62429,62181,63645,63773,65384,68089,68634,68797,71325,71577,72617,-4.2583345,55.8616704
+"United Kingdom","Guildford","GDP (Million USD, constant prices, constant PPP, base year 2015)",12851,13337,13382,13611,14009,14670,15252,15309,15499,15852,16431,-0.570409,51.23622
+"United Kingdom","Ipswich","GDP (Million USD, constant prices, constant PPP, base year 2015)",11519,11779,11972,12204,12457,12682,12966,13265,13500,13526,13979,1.14822,52.056736
+"United Kingdom","Kingston upon Hull","GDP (Million USD, constant prices, constant PPP, base year 2015)",18440,17993,17611,17717,17775,18140,18839,19050,19491,20031,20182,-0.3274198,53.7676236
+"United Kingdom","Leeds","GDP (Million USD, constant prices, constant PPP, base year 2015)",83395,84606,86337,87138,88048,89738,93328,93978,96417,98924,99188,-1.5490774,53.8007554
+"United Kingdom","Leicester","GDP (Million USD, constant prices, constant PPP, base year 2015)",27727,29032,28754,29198,29938,31264,32191,32782,32981,33618,33721,-1.1397592,52.6368778
+"United Kingdom","Lincoln","GDP (Million USD, constant prices, constant PPP, base year 2015)",8160,8420,8549,8728,9041,9277,9394,9365,9784,10050,10282,-0.5426827,53.2294565
+"United Kingdom","Liverpool","GDP (Million USD, constant prices, constant PPP, base year 2015)",45294,46787,46819,45610,46103,47672,48859,49234,50112,50370,52079,-2.9915726,53.4083714
+"United Kingdom","London","GDP (Million USD, constant prices, constant PPP, base year 2015)",646250,671967,690547,705049,726416,763846,786600,817227,831319,846598,857172,-0.1275862,51.5072178
+"United Kingdom","Manchester","GDP (Million USD, constant prices, constant PPP, base year 2015)",110682,113585,114660,117722,120054,122823,127067,130745,134371,137097,139401,-2.2426305,53.4807593
+"United Kingdom","Medway","GDP (Million USD, constant prices, constant PPP, base year 2015)",7021,7355,7494,7769,7900,7994,8186,8451,8670,8804,9168,0.5417861,51.4047432
+"United Kingdom","Middlesbrough","GDP (Million USD, constant prices, constant PPP, base year 2015)",16193,16374,16467,16446,16463,16721,17430,17511,17125,17363,17591,-1.234956,54.574227
+"United Kingdom","Milton Keynes","GDP (Million USD, constant prices, constant PPP, base year 2015)",13866,14583,14935,15099,15759,17299,19124,18660,19588,20091,20137,-0.7594171,52.0406224
+"United Kingdom","Newcastle upon Tyne","GDP (Million USD, constant prices, constant PPP, base year 2015)",33960,35314,36310,36884,36123,36808,37882,38348,39052,39088,39974,-1.61778,54.978252
+"United Kingdom","Northampton","GDP (Million USD, constant prices, constant PPP, base year 2015)",16445,17274,17370,17360,18157,18732,19331,19789,20486,21346,21494,-0.8944421,52.237065
+"United Kingdom","Norwich","GDP (Million USD, constant prices, constant PPP, base year 2015)",12187,12441,12536,12921,13299,13501,13715,13833,14401,13967,15143,1.2978802,52.6292567
+"United Kingdom","Nottingham","GDP (Million USD, constant prices, constant PPP, base year 2015)",26996,28122,28790,29498,29787,30631,31294,31791,32261,32963,33227,-1.1549892,52.9540223
+"United Kingdom","Oxford","GDP (Million USD, constant prices, constant PPP, base year 2015)",21549,22431,22983,23525,24080,25106,25925,25432,25520,26223,27305,-1.2577263,51.7520209
+"United Kingdom","Plymouth","GDP (Million USD, constant prices, constant PPP, base year 2015)",11910,12457,12698,12911,13094,13363,13761,13934,14231,14340,14485,-4.1426565,50.3754565
+"United Kingdom","Portsmouth","GDP (Million USD, constant prices, constant PPP, base year 2015)",17891,18767,19144,19728,19978,20642,20781,20999,21562,21094,21733,-1.0879769,50.8197675
+"United Kingdom","Preston","GDP (Million USD, constant prices, constant PPP, base year 2015)",10904,11144,11243,11370,11443,11614,12219,12563,12708,12189,12107,-2.70309,53.763201
+"United Kingdom","Reading","GDP (Million USD, constant prices, constant PPP, base year 2015)",19186,19499,20168,20623,20671,21233,21755,22010,22173,23052,23599,-0.9787475,51.4551201
+"United Kingdom","Sheffield","GDP (Million USD, constant prices, constant PPP, base year 2015)",31923,32978,33647,34129,34375,35198,36517,36531,37095,37158,37706,-1.470085,53.381129
+"United Kingdom","Southampton","GDP (Million USD, constant prices, constant PPP, base year 2015)",24924,26096,27060,27368,27634,28345,29665,29781,30418,30274,30472,-1.4049018,50.9105468
+"United Kingdom","Stoke-on-Trent","GDP (Million USD, constant prices, constant PPP, base year 2015)",13452,13929,14312,14346,14661,14829,15207,15221,15692,16134,16244,-2.1827408,53.0033369
+"United Kingdom","Sunderland","GDP (Million USD, constant prices, constant PPP, base year 2015)",9180,9208,9282,9391,10053,10307,10492,10439,10671,10502,10796,-1.383801,54.906869
+"United Kingdom","Swansea","GDP (Million USD, constant prices, constant PPP, base year 2015)",10756,11047,11281,11277,11469,12104,12030,12323,12620,13022,13342,-3.943646,51.62144
+"United Kingdom","West Midlands urban area","GDP (Million USD, constant prices, constant PPP, base year 2015)",88635,92221,93926,94646,96818,99777,102823,106527,108865,110754,110303,-1.829833,52.4750743
+"United States","Ada","GDP (Million USD, constant prices, constant PPP, base year 2015)",26676,26771,26536,26714,27937,29010,29566,30905,31952,34308,35701,-96.6783449,34.774531
+"United States","Alachua","GDP (Million USD, constant prices, constant PPP, base year 2015)",12677,12551,12268,12253,12439,12849,13230,13540,14004,14426,14915,-82.4944226,29.7938144
+"United States","Albany","GDP (Million USD, constant prices, constant PPP, base year 2015)",55572,56103,55719,56253,57032,57871,60117,61923,63163,63455,66248,-73.7562317,42.6525793
+"United States","Albuquerque","GDP (Million USD, constant prices, constant PPP, base year 2015)",42026,40954,40093,39734,38902,39545,40322,41033,40756,41492,42862,-106.650422,35.0843859
+"United States","Allen","GDP (Million USD, constant prices, constant PPP, base year 2015)",17121,17469,17501,18274,18073,19303,20266,20863,21353,22204,22170,-96.6705503,33.1031744
+"United States","Atlanta","GDP (Million USD, constant prices, constant PPP, base year 2015)",283510,285836,289432,295362,303945,317765,336725,355040,366784,378904,397078,-84.3876845,33.748752
+"United States","Atlantic City","GDP (Million USD, constant prices, constant PPP, base year 2015)",14302,13860,14220,14019,14038,13882,13709,13326,13118,13111,13572,-74.4229266,39.3642834
+"United States","Austin","GDP (Million USD, constant prices, constant PPP, base year 2015)",94610,99218,102356,105427,110834,116394,126122,132629,138048,145434,153208,-97.7430608,30.267153
+"United States","Bell","GDP (Million USD, constant prices, constant PPP, base year 2015)",17140,17137,17422,17375,16889,16803,17609,17233,17616,17838,18267,-118.1870156,33.9775142
+"United States","Benton (AR)","GDP (Million USD, constant prices, constant PPP, base year 2015)",9506,9942,10189,10764,11508,12010,12787,12919,13622,13990,14478,-92.585378,34.5693083
+"United States","Benton (WA)","GDP (Million USD, constant prices, constant PPP, base year 2015)",11996,13317,13244,12761,12824,13048,13656,14148,14383,14712,15324,-119.5021582,46.3166362
+"United States","Berks","GDP (Million USD, constant prices, constant PPP, base year 2015)",16994,17336,17797,17901,18037,18349,19197,19413,19483,19596,19697,-75.9927652,40.3451566
+"United States","Boston","GDP (Million USD, constant prices, constant PPP, base year 2015)",323157,337663,342389,351052,353537,359877,378774,388350,396002,412382,427772,-71.0588801,42.3600825
+"United States","Boulder","GDP (Million USD, constant prices, constant PPP, base year 2015)",21660,21885,21821,21879,22531,23072,24123,24805,25956,26431,28106,-105.2705456,40.0149856
+"United States","Brazos","GDP (Million USD, constant prices, constant PPP, base year 2015)",11414,11783,11923,11828,13015,13896,12530,12181,13007,13657,13719,-96.3226072,30.6504141
+"United States","Brevard","GDP (Million USD, constant prices, constant PPP, base year 2015)",22137,21911,20858,20245,20384,20831,21979,22543,23644,24502,25511,-80.7214417,28.263933
+"United States","Brown","GDP (Million USD, constant prices, constant PPP, base year 2015)",16071,16773,17071,17619,17642,18573,19212,19390,19132,19639,19720,-87.9334803,44.4561674
+"United States","Butte","GDP (Million USD, constant prices, constant PPP, base year 2015)",8862,8916,8924,8722,8937,8684,8989,9544,9887,10078,10302,-121.5370003,39.6253952
+"United States","Caddo","GDP (Million USD, constant prices, constant PPP, base year 2015)",21554,24692,26640,24419,22680,22483,20728,20152,21715,22801,22048,-93.9737925,32.7565316
+"United States","Cameron","GDP (Million USD, constant prices, constant PPP, base year 2015)",8958,9360,9602,9765,9933,9958,10130,10440,10375,10513,10885,-80.566467,39.8270237
+"United States","Charleston","GDP (Million USD, constant prices, constant PPP, base year 2015)",29679,30892,32206,34039,34038,35103,37169,39266,39924,41189,43063,-79.9310512,32.7764749
+"United States","Charlotte","GDP (Million USD, constant prices, constant PPP, base year 2015)",110235,105890,111081,118870,118354,122695,129597,134672,142364,144773,148931,-80.8431267,35.2270869
+"United States","Chatham","GDP (Million USD, constant prices, constant PPP, base year 2015)",16043,16385,16755,17356,17428,18251,19061,19866,20558,20658,21390,-74.3837624,40.740934
+"United States","Chicago","GDP (Million USD, constant prices, constant PPP, base year 2015)",562719,569470,578448,597736,599916,615576,636939,641033,648232,666130,673025,-87.6297982,41.8781136
+"United States","Cincinnati","GDP (Million USD, constant prices, constant PPP, base year 2015)",110333,113750,117175,118822,120015,123535,128357,134117,135687,138112,143905,-84.5120196,39.1031182
+"United States","Collier","GDP (Million USD, constant prices, constant PPP, base year 2015)",14005,14061,13776,14046,14586,15404,16613,17828,18066,19060,19543,-81.4278984,26.069985
+"United States","Columbus","GDP (Million USD, constant prices, constant PPP, base year 2015)",95829,98426,101489,105917,109132,112583,116063,119447,121934,124009,127591,-82.9987942,39.9611755
+"United States","Cumberland (ME)","GDP (Million USD, constant prices, constant PPP, base year 2015)",18159,18165,18054,18271,18239,18669,19087,19814,20390,21033,21641,-70.2585205,43.796573
+"United States","Cumberland (NC)","GDP (Million USD, constant prices, constant PPP, base year 2015)",17915,18422,18531,17999,17902,17849,18325,18295,17317,17485,18039,-78.9638228,35.0092974
+"United States","Cuyahoga","GDP (Million USD, constant prices, constant PPP, base year 2015)",111130,112208,114147,115630,116133,118533,120454,121348,122205,125140,127872,-81.7787021,41.7048247
+"United States","Dallas","GDP (Million USD, constant prices, constant PPP, base year 2015)",368723,378456,391961,404597,417483,432059,447937,461660,476614,495245,513355,-96.7969879,32.7766642
+"United States","Dane","GDP (Million USD, constant prices, constant PPP, base year 2015)",34502,35337,36113,37193,38049,39702,41594,43057,42780,44144,45461,-89.5497632,43.0186073
+"United States","Dauphin","GDP (Million USD, constant prices, constant PPP, base year 2015)",33143,33554,34109,34799,35491,36541,37861,37926,37630,38395,39584,-76.7336521,40.2734277
+"United States","Davidson","GDP (Million USD, constant prices, constant PPP, base year 2015)",76371,77179,79920,84903,86468,90190,97857,101154,103824,106100,110398,-80.8486846,35.4993031
+"United States","Denver","GDP (Million USD, constant prices, constant PPP, base year 2015)",152349,155151,157193,162165,168775,175566,184612,188965,194269,202268,211871,-104.990251,39.7392358
+"United States","Detroit (Greater)","GDP (Million USD, constant prices, constant PPP, base year 2015)",203191,213788,219397,228053,232648,235886,244695,249819,249646,252156,252151,-83.0457538,42.331427
+"United States","Douglas (NE)","GDP (Million USD, constant prices, constant PPP, base year 2015)",49707,50948,53419,54515,53851,56692,59127,59434,61457,62666,64115,-96.3877734,40.5939437
+"United States","Durham","GDP (Million USD, constant prices, constant PPP, base year 2015)",28116,31031,32252,33469,34405,33347,32979,32114,31065,32694,34666,-78.898619,35.9940329
+"United States","East Baton Rouge","GDP (Million USD, constant prices, constant PPP, base year 2015)",43929,46474,53244,54195,53284,58620,57830,52741,51064,54485,51736,-91.09694,30.5693593
+"United States","El Paso (CO)","GDP (Million USD, constant prices, constant PPP, base year 2015)",29697,30237,30752,30930,31344,31563,32142,32710,33745,34785,36030,-104.4723301,38.9108325
+"United States","El Paso (TX)","GDP (Million USD, constant prices, constant PPP, base year 2015)",24411,26364,27694,28608,28175,27704,28393,28640,29303,30326,31706,-106.4850217,31.7618778
+"United States","Erie (NY)","GDP (Million USD, constant prices, constant PPP, base year 2015)",57499,58994,58048,59621,59708,61378,63233,64441,63959,64780,66525,-78.7476208,42.6974933
+"United States","Erie (PA)","GDP (Million USD, constant prices, constant PPP, base year 2015)",11840,12036,12504,12235,12348,11690,11835,11509,11116,11190,11391,-80.085059,42.1292241
+"United States","Escambia","GDP (Million USD, constant prices, constant PPP, base year 2015)",16675,16799,16945,16835,17073,17285,18113,18864,19374,19551,20167,-87.3413599,30.6389408
+"United States","Fayette","GDP (Million USD, constant prices, constant PPP, base year 2015)",23307,23977,24003,24601,25638,26232,27421,27991,28149,28530,28979,-79.6502105,39.9272324
+"United States","Forsyth","GDP (Million USD, constant prices, constant PPP, base year 2015)",26470,26053,24810,25563,26251,27202,27780,28326,29356,28610,29407,-84.1435136,34.2358502
+"United States","Fresno (Greater)","GDP (Million USD, constant prices, constant PPP, base year 2015)",38814,40286,41469,40525,42236,43325,43906,45254,46896,47654,49071,-119.7871247,36.7377981
+"United States","Genesee","GDP (Million USD, constant prices, constant PPP, base year 2015)",12948,13488,13501,13704,14075,13971,14876,15260,15223,15434,15565,-83.6773928,43.0777289
+"United States","Greene","GDP (Million USD, constant prices, constant PPP, base year 2015)",18619,18575,18085,18444,18447,19163,20034,20012,20231,20733,21485,-93.5003454,37.3311215
+"United States","Greenville","GDP (Million USD, constant prices, constant PPP, base year 2015)",23082,23552,24347,24627,24877,25823,27860,29012,29987,30945,31454,-82.3940104,34.8526176
+"United States","Guilford","GDP (Million USD, constant prices, constant PPP, base year 2015)",31443,31314,31809,30310,31500,31673,33081,32873,32957,32810,32936,-72.674364,41.288906
+"United States","Hamilton (TN)","GDP (Million USD, constant prices, constant PPP, base year 2015)",23506,23817,24444,25532,25941,25898,27086,27708,28248,28382,28975,-85.1479364,35.1618966
+"United States","Hampden","GDP (Million USD, constant prices, constant PPP, base year 2015)",25974,26738,26974,27375,27740,27713,28924,29202,29199,29367,29967,-68.8370436,44.7445421
+"United States","Hartford","GDP (Million USD, constant prices, constant PPP, base year 2015)",90898,90650,89518,89851,87076,88748,95062,95713,96961,96769,97225,-88.3789862,43.3177794
+"United States","Hidalgo","GDP (Million USD, constant prices, constant PPP, base year 2015)",17690,17971,18291,18534,19382,19618,19668,19734,19930,20392,21004,-98.2212979,26.4656319
+"United States","Houston","GDP (Million USD, constant prices, constant PPP, base year 2015)",363638,387086,410772,428404,444992,448964,463778,451107,462007,482416,477243,-95.3698028,29.7604267
+"United States","Indianapolis","GDP (Million USD, constant prices, constant PPP, base year 2015)",115855,118753,119321,119688,123362,126110,124921,128379,129296,134190,138034,-86.158068,39.768403
+"United States","Ingham","GDP (Million USD, constant prices, constant PPP, base year 2015)",19871,21283,20442,20034,19967,20531,21620,22705,22948,23268,23461,-84.3542049,42.6468943
+"United States","Jackson (MO)","GDP (Million USD, constant prices, constant PPP, base year 2015)",109797,108445,108105,112776,114117,117231,122278,122379,124838,127276,130902,-89.6662063,37.3822732
+"United States","Jacksonville","GDP (Million USD, constant prices, constant PPP, base year 2015)",66891,66468,65488,66255,68214,69962,73692,76799,79546,82115,85995,-81.655651,30.3321838
+"United States","Jefferson (AL)","GDP (Million USD, constant prices, constant PPP, base year 2015)",53294,53885,55255,56249,55778,55921,56989,57687,58851,60113,60512,-86.9824288,33.4914122
+"United States","Jefferson (KY)","GDP (Million USD, constant prices, constant PPP, base year 2015)",60074,62493,62996,65987,66552,67461,69981,71258,71245,71983,73662,-85.5644033,38.1942356
+"United States","Jefferson (TX)","GDP (Million USD, constant prices, constant PPP, base year 2015)",22526,25577,28922,30950,29926,24529,24048,23670,25518,27495,27039,-94.3451926,32.7573626
+"United States","Kalamazoo","GDP (Million USD, constant prices, constant PPP, base year 2015)",11292,11394,11311,11536,11710,11638,12219,12739,13284,13560,13726,-85.5872286,42.2917069
+"United States","Kent","GDP (Million USD, constant prices, constant PPP, base year 2015)",32990,33590,34072,35633,36364,37618,39911,41239,41428,42467,42799,-122.234771,47.3830671
+"United States","Kern","GDP (Million USD, constant prices, constant PPP, base year 2015)",43843,45664,47000,48750,48484,47893,42022,40598,42713,44529,44290,-118.8596804,35.4937274
+"United States","Knox","GDP (Million USD, constant prices, constant PPP, base year 2015)",22043,21677,22055,22989,23064,23345,24291,25267,25431,25992,26343,-83.8473015,36.0186934
+"United States","Lackawanna","GDP (Million USD, constant prices, constant PPP, base year 2015)",10610,10688,10556,10402,10419,10516,10833,11042,11178,11390,11603,-78.8233664,42.8256141
+"United States","Lafayette","GDP (Million USD, constant prices, constant PPP, base year 2015)",19015,19722,20740,21368,21145,21315,19676,17885,18026,18520,18418,-92.0198427,30.2240897
+"United States","Lancaster (NE)","GDP (Million USD, constant prices, constant PPP, base year 2015)",15742,16056,16208,16580,16926,17535,18415,18695,19487,20049,20444,-96.663812,40.8471492
+"United States","Lancaster (PA)","GDP (Million USD, constant prices, constant PPP, base year 2015)",23722,24441,24258,24462,25007,25536,26847,27022,28112,28414,28752,-76.3055144,40.0378755
+"United States","Lane","GDP (Million USD, constant prices, constant PPP, base year 2015)",13008,13106,13022,13187,13341,13518,14337,14823,15268,15651,15686,-122.6618227,43.9610092
+"United States","Larimer","GDP (Million USD, constant prices, constant PPP, base year 2015)",13360,13600,13500,14037,14614,15323,16228,16891,18061,18824,19899,-105.5943388,40.6955572
+"United States","Las Vegas","GDP (Million USD, constant prices, constant PPP, base year 2015)",97379,96069,96469,95926,97535,99627,105817,109517,112228,118349,124279,-115.1391009,36.171563
+"United States","Lee","GDP (Million USD, constant prices, constant PPP, base year 2015)",24103,23496,23153,23732,24365,25643,27625,29834,30408,31345,32170,-89.3226954,41.6789842
+"United States","Lehigh","GDP (Million USD, constant prices, constant PPP, base year 2015)",33785,34414,34754,35193,35501,36093,37350,38554,38747,39063,40826,-97.3030858,38.3727872
+"United States","Los Angeles (Greater)","GDP (Million USD, constant prices, constant PPP, base year 2015)",899150,920939,929021,944654,965753,989235,1038203,1061334,1095034,1124790,1161775,-118.2848067,33.8726016
+"United States","Lubbock","GDP (Million USD, constant prices, constant PPP, base year 2015)",14948,16371,16246,16803,17515,16713,15819,15702,16249,16640,16751,-101.8456417,33.5845617
+"United States","Lucas","GDP (Million USD, constant prices, constant PPP, base year 2015)",26355,27601,29622,29569,29980,31977,30203,29669,29981,31332,31902,-83.3789389,41.6894388
+"United States","Luzerne","GDP (Million USD, constant prices, constant PPP, base year 2015)",13749,13947,14088,14254,14297,14397,14939,15078,14801,14782,15159,-75.9927652,41.1404353
+"United States","Madison","GDP (Million USD, constant prices, constant PPP, base year 2015)",20058,20927,21059,20932,21158,21139,21689,22341,22862,23673,24694,-89.4007501,43.0721661
+"United States","Mahoning","GDP (Million USD, constant prices, constant PPP, base year 2015)",15776,16318,16958,16681,16571,16296,16121,15944,15646,15770,16058,-80.7214417,40.9871753
+"United States","Marion (FL)","GDP (Million USD, constant prices, constant PPP, base year 2015)",8858,8633,8482,8269,8404,8425,8743,9406,9550,9802,10133,-82.12784,29.2787765
+"United States","Marion (OR)","GDP (Million USD, constant prices, constant PPP, base year 2015)",13607,13732,13422,13607,13700,14122,15048,15838,16519,17295,17835,-122.942314,44.7490108
+"United States","McLennan","GDP (Million USD, constant prices, constant PPP, base year 2015)",9879,10209,10330,10779,11675,12168,12151,12364,12986,13357,13639,-97.179026,31.5182285
+"United States","Memphis","GDP (Million USD, constant prices, constant PPP, base year 2015)",63269,63417,63900,66555,67514,67318,69755,70496,70684,70745,71387,-90.0489801,35.1495343
+"United States","Merced","GDP (Million USD, constant prices, constant PPP, base year 2015)",7007,7241,7730,7645,7990,8590,8496,8331,8897,8737,8868,-120.4829677,37.3021632
+"United States","Miami (Greater)","GDP (Million USD, constant prices, constant PPP, base year 2015)",272991,279692,278097,280220,288301,298449,315560,326650,338147,349346,358797,-80.1883347,25.773897
+"United States","Milwaukee","GDP (Million USD, constant prices, constant PPP, base year 2015)",87878,89366,90563,91528,91822,92042,94321,95164,94712,96528,98451,-87.9064736,43.0389025
+"United States","Minneapolis","GDP (Million USD, constant prices, constant PPP, base year 2015)",204177,209488,214573,218891,224879,233337,240055,244164,247660,255995,258035,-93.2650108,44.977753
+"United States","Minnehaha","GDP (Million USD, constant prices, constant PPP, base year 2015)",16813,16789,18009,19776,19525,20806,21315,22320,22546,22901,23790,-96.8350999,43.6631787
+"United States","Mobile","GDP (Million USD, constant prices, constant PPP, base year 2015)",18014,18157,18758,18628,18706,18730,18631,18790,19092,19522,19574,-88.0398912,30.6953657
+"United States","Monterey","GDP (Million USD, constant prices, constant PPP, base year 2015)",21716,21805,21097,21832,23328,23428,24499,24566,25110,25745,26575,-121.8946761,36.6002378
+"United States","Montgomery (AL)","GDP (Million USD, constant prices, constant PPP, base year 2015)",18330,18798,18792,19133,19114,18966,19515,20071,20072,19983,20018,-86.3077368,32.3792233
+"United States","Montgomery (OH)","GDP (Million USD, constant prices, constant PPP, base year 2015)",32481,33120,33734,33473,33676,34149,35012,35724,36417,37245,38408,-84.3541062,39.2281143
+"United States","Muscogee","GDP (Million USD, constant prices, constant PPP, base year 2015)",13251,13549,13659,13844,13637,13676,13935,13851,13990,14043,14320,-84.8984775,32.4794133
+"United States","Nashville","GDP (Million USD, constant prices, constant PPP, base year 2015)",10689,11101,11005,11618,12325,13049,14006,15049,15808,15976,16863,-86.7816016,36.1626638
+"United States","New Haven","GDP (Million USD, constant prices, constant PPP, base year 2015)",135996,134498,128940,132470,130970,131060,134293,135170,135972,138446,139547,-72.9278835,41.308274
+"United States","New Orleans","GDP (Million USD, constant prices, constant PPP, base year 2015)",74466,86067,71045,72489,68884,69575,69712,68530,73782,75138,74819,-90.0715323,29.9510658
+"United States","New York (Greater)","GDP (Million USD, constant prices, constant PPP, base year 2015)",1379930,1429897,1427013,1493196,1513683,1549667,1598234,1649934,1671199,1728632,1776044,-73.987863,40.7528622
+"United States","Newport News","GDP (Million USD, constant prices, constant PPP, base year 2015)",22002,21883,21822,21505,22078,21617,22199,22073,22012,22379,23008,-76.4730122,37.0870821
+"United States","Nueces","GDP (Million USD, constant prices, constant PPP, base year 2015)",18118,19959,22025,22253,22150,20619,20396,19407,20631,22206,22303,-97.4814163,27.7693351
+"United States","Oklahoma","GDP (Million USD, constant prices, constant PPP, base year 2015)",61653,63978,67355,70127,73182,76793,72800,71156,74045,77351,75413,-97.092877,35.0077519
+"United States","Onondaga","GDP (Million USD, constant prices, constant PPP, base year 2015)",34791,36027,35254,36187,36604,37373,38855,38427,38510,38746,39642,-76.1783739,43.026819
+"United States","Orange","GDP (Million USD, constant prices, constant PPP, base year 2015)",102500,102448,101798,104644,107902,111940,119537,124933,129812,133908,139990,-117.855281,33.7879085
+"United States","Outagamie","GDP (Million USD, constant prices, constant PPP, base year 2015)",10833,11003,11305,11792,11672,12104,12817,13174,13296,13732,14153,-88.4016041,44.4636545
+"United States","Peoria","GDP (Million USD, constant prices, constant PPP, base year 2015)",19971,21559,24367,27696,23442,23128,21522,20082,18934,19364,18637,-89.5889864,40.6936488
+"United States","Philadelphia (Greater)","GDP (Million USD, constant prices, constant PPP, base year 2015)",395689,401752,402775,414520,418090,428289,437979,442192,437989,445101,455845,-75.4580644,40.1238562
+"United States","Phoenix","GDP (Million USD, constant prices, constant PPP, base year 2015)",194546,194212,198142,205008,207096,211385,219957,228454,236208,246054,258164,-112.0740373,33.4483771
+"United States","Pima","GDP (Million USD, constant prices, constant PPP, base year 2015)",36915,37801,37489,38456,37979,38142,38365,39808,41069,41993,42921,-111.6660725,32.057499
+"United States","Pittsburgh","GDP (Million USD, constant prices, constant PPP, base year 2015)",87981,91729,93370,95414,96797,98444,102031,101573,104766,108720,110134,-79.9958864,40.4406248
+"United States","Polk","GDP (Million USD, constant prices, constant PPP, base year 2015)",36357,37079,36947,39545,38643,43356,47564,49191,47916,48703,49718,-81.6911559,27.8617347
+"United States","Portland","GDP (Million USD, constant prices, constant PPP, base year 2015)",115358,117529,120627,122224,122621,126083,134269,140394,145431,152159,155755,-122.6783853,45.515232
+"United States","Potter","GDP (Million USD, constant prices, constant PPP, base year 2015)",13742,13614,13810,13835,18107,20613,18717,19219,18925,19360,18849,-101.9804613,35.404373
+"United States","Providence","GDP (Million USD, constant prices, constant PPP, base year 2015)",46974,48173,48009,48488,48824,49481,50861,51138,50545,50396,51183,-71.4128343,41.8239891
+"United States","Pulaski","GDP (Million USD, constant prices, constant PPP, base year 2015)",29329,28919,29280,29424,29676,29960,30867,31150,30781,31249,31809,-80.7797935,37.0478982
+"United States","Richland","GDP (Million USD, constant prices, constant PPP, base year 2015)",34341,34313,34207,34203,35146,36471,37922,39048,39231,39741,40483,-119.2751996,46.28042
+"United States","Richmond (Greater)","GDP (Million USD, constant prices, constant PPP, base year 2015)",61287,62534,63892,65822,67791,68895,72572,74666,75324,76723,78725,-77.4368334,37.5450707
+"United States","Roanoke","GDP (Million USD, constant prices, constant PPP, base year 2015)",14903,15034,14848,14882,15221,15441,15974,15802,15505,15673,15567,-79.9414266,37.2709704
+"United States","Rochester (NY)","GDP (Million USD, constant prices, constant PPP, base year 2015)",48302,48892,47421,47838,47067,46719,47902,48358,48008,48271,49753,-77.6088465,43.1565779
+"United States","Sacramento","GDP (Million USD, constant prices, constant PPP, base year 2015)",108138,106156,107058,108097,111726,114596,120658,123260,126429,131286,136459,-121.4943996,38.5815719
+"United States","Salt Lake","GDP (Million USD, constant prices, constant PPP, base year 2015)",78364,81015,84787,87125,89158,91641,95500,100467,104445,111167,115791,-111.8910474,40.7607793
+"United States","San Antonio","GDP (Million USD, constant prices, constant PPP, base year 2015)",88142,91501,95184,98095,102932,108453,113367,115081,115651,121190,124379,-98.4945922,29.4251905
+"United States","San Diego","GDP (Million USD, constant prices, constant PPP, base year 2015)",181144,182784,184785,186602,193918,199221,207514,209761,215935,220709,226499,-117.1610838,32.715738
+"United States","San Francisco (Greater)","GDP (Million USD, constant prices, constant PPP, base year 2015)",515262,531037,548609,583817,613529,649232,697128,735055,788832,834909,873395,-122.4194155,37.7749295
+"United States","San Joaquin","GDP (Million USD, constant prices, constant PPP, base year 2015)",24224,23694,23508,23808,24778,25334,26522,27004,27965,28942,30027,-121.1710389,37.9175935
+"United States","Santa Barbara","GDP (Million USD, constant prices, constant PPP, base year 2015)",23388,23315,23500,24037,24488,24864,25886,25957,26704,27629,27869,-119.6981901,34.4208305
+"United States","Santa Cruz","GDP (Million USD, constant prices, constant PPP, base year 2015)",11675,12577,12428,12254,12686,12940,13119,13407,13587,13994,15002,-122.0307963,36.9741171
+"United States","Sarasota","GDP (Million USD, constant prices, constant PPP, base year 2015)",27534,26162,26145,25947,26994,28440,30729,31916,33355,34840,36343,-82.5310117,27.336465
+"United States","Scott","GDP (Million USD, constant prices, constant PPP, base year 2015)",19643,20197,20797,21516,20908,20980,20777,20485,20645,20574,20787,-93.5407909,44.6834072
+"United States","Seattle","GDP (Million USD, constant prices, constant PPP, base year 2015)",255580,261436,268188,282098,293304,305339,320666,332921,350383,373545,391072,-122.3328481,47.6061389
+"United States","Sebastian","GDP (Million USD, constant prices, constant PPP, base year 2015)",10201,10678,10917,10829,10678,10628,10517,10438,10541,10741,10817,-80.4706078,27.816415
+"United States","Sedgwick","GDP (Million USD, constant prices, constant PPP, base year 2015)",26848,28104,28773,28697,27090,28957,30836,33424,34048,33844,34361,-97.422541,37.9166784
+"United States","Sonoma","GDP (Million USD, constant prices, constant PPP, base year 2015)",22776,23260,23379,23848,24455,25375,26827,27612,28067,29201,29513,-122.4580356,38.291859
+"United States","Spokane","GDP (Million USD, constant prices, constant PPP, base year 2015)",21288,21316,21374,21613,21861,22251,23073,23751,24406,25657,26513,-117.4235319,47.6579711
+"United States","St. Joseph","GDP (Million USD, constant prices, constant PPP, base year 2015)",11180,11640,11708,12012,12215,12725,13056,13042,13083,13602,13943,-94.846681,39.7674578
+"United States","St. Louis","GDP (Million USD, constant prices, constant PPP, base year 2015)",142995,144798,144682,147491,148224,150739,152648,151913,151199,154163,156223,-90.1994042,38.6270025
+"United States","St. Lucie","GDP (Million USD, constant prices, constant PPP, base year 2015)",8030,7782,7755,7827,8079,8182,8389,8738,9033,9298,9474,-80.3421984,27.499208
+"United States","Stanislaus","GDP (Million USD, constant prices, constant PPP, base year 2015)",18352,18492,18494,18355,18597,19642,20343,20546,21523,21958,22415,-120.9876321,37.5090711
+"United States","Stark","GDP (Million USD, constant prices, constant PPP, base year 2015)",13912,14498,14974,15321,15801,16461,16428,16175,16492,16517,16426,-81.2518833,40.8684676
+"United States","Summit","GDP (Million USD, constant prices, constant PPP, base year 2015)",26164,26590,26419,26735,27205,27818,28297,28528,28491,28956,29579,-74.3646122,40.7146376
+"United States","Tallahassee","GDP (Million USD, constant prices, constant PPP, base year 2015)",15538,15417,15239,15366,15085,15390,15718,16151,16639,16580,17091,-84.2806235,30.4381828
+"United States","Tampa-Hillsborough","GDP (Million USD, constant prices, constant PPP, base year 2015)",68974,69693,69909,71455,73446,74640,78886,82153,83695,86344,90416,-82.4587527,27.9516896
+"United States","Tampa-Pinellas","GDP (Million USD, constant prices, constant PPP, base year 2015)",53032,52888,51585,52068,52799,54185,56595,58179,59038,60487,62303,-82.5436722,27.763383
+"United States","Thurston","GDP (Million USD, constant prices, constant PPP, base year 2015)",12123,12298,12203,12308,12514,12712,12917,13572,13952,14859,15202,-96.7008704,42.17722
+"United States","Tulare","GDP (Million USD, constant prices, constant PPP, base year 2015)",12348,13737,14549,13913,14353,15781,15452,16094,16901,16902,17605,-119.3473379,36.2077288
+"United States","Tulsa","GDP (Million USD, constant prices, constant PPP, base year 2015)",46311,46828,49986,51936,52947,56737,54912,51207,53293,56133,55915,-95.992775,36.1539816
+"United States","Tuscaloosa","GDP (Million USD, constant prices, constant PPP, base year 2015)",9404,9959,11277,10843,10845,10474,10242,10332,10839,11061,11417,-87.5691735,33.2098407
+"United States","Utah","GDP (Million USD, constant prices, constant PPP, base year 2015)",17268,17662,18184,18329,19195,19955,21711,23205,24236,26334,28726,-111.0937311,39.3209801
+"United States","Vanderburgh","GDP (Million USD, constant prices, constant PPP, base year 2015)",18140,19121,19541,19293,18686,18502,18715,19379,20803,21506,21705,-87.5791287,38.0806099
+"United States","Ventura","GDP (Million USD, constant prices, constant PPP, base year 2015)",51897,51622,49351,48564,49241,48788,48880,48576,48918,48883,50264,-119.2945199,34.2804923
+"United States","Virginia Beach","GDP (Million USD, constant prices, constant PPP, base year 2015)",60706,61148,60386,59726,59801,59695,61363,62345,61881,60535,61453,-75.9792194,36.8516437
+"United States","Volusia-Daytona Beach","GDP (Million USD, constant prices, constant PPP, base year 2015)",15433,15225,14951,15038,15135,15572,16097,16806,17294,17751,18161,-81.0228331,29.2108147
+"United States","Wake","GDP (Million USD, constant prices, constant PPP, base year 2015)",55820,58836,58731,60486,64222,67732,73213,77829,81100,85487,88389,-78.5660852,35.8031909
+"United States","Washington (Greater)","GDP (Million USD, constant prices, constant PPP, base year 2015)",609671,634654,642063,645016,647567,655419,677431,698743,708274,719334,732081,-120.7401386,47.7510741
+"United States","Washoe","GDP (Million USD, constant prices, constant PPP, base year 2015)",23219,23943,23416,24093,23971,24342,26524,27794,29666,29202,30518,-119.6035495,40.5608387
+"United States","Washtenaw","GDP (Million USD, constant prices, constant PPP, base year 2015)",19165,19685,19636,20299,20556,20884,22057,22633,23198,23663,24380,-83.8473015,42.3076493
+"United States","Webb","GDP (Million USD, constant prices, constant PPP, base year 2015)",8164,8988,11074,13469,17420,20329,14794,12997,14476,15004,14067,-99.0128926,27.8174487
+"United States","Weber","GDP (Million USD, constant prices, constant PPP, base year 2015)",8861,8881,8885,8782,8659,9002,9411,9799,10321,10669,11166,-111.9522491,41.2602635
+"United States","Weld","GDP (Million USD, constant prices, constant PPP, base year 2015)",10497,11236,12001,12836,14652,17411,15804,15761,18237,20708,19653,-104.4723301,40.5265766
+"United States","Winnebago (IL)","GDP (Million USD, constant prices, constant PPP, base year 2015)",14276,14178,14513,14738,14568,14697,15243,15269,15346,15723,15656,-89.2412202,42.2661311
+"United States","Worcester","GDP (Million USD, constant prices, constant PPP, base year 2015)",36474,37570,38510,38937,39401,39706,41106,41570,41637,42340,42963,-71.8022934,42.2625932
+"United States","Yakima","GDP (Million USD, constant prices, constant PPP, base year 2015)",8011,8577,8688,8823,8930,9324,9179,9401,9597,9979,10115,-120.5058987,46.6020711
+"United States","York","GDP (Million USD, constant prices, constant PPP, base year 2015)",19491,19719,19332,18933,19377,19469,19868,20192,20510,20257,20809,-76.727745,39.9625984
