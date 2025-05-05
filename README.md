@@ -78,7 +78,7 @@ City-Statistics-Analysis/
 
 ## 👥 Contributors
 
-- [Marco Di Maio](https://github.com/Marco210210) 
+- Marco Di Maio
 - [Pasquale Somma](https://github.com/Paky29)
 
 ---
