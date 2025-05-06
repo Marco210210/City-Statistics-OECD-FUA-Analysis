@@ -83,8 +83,10 @@ City-Statistics-Analysis/
 
 ---
 
-## ✨ Notes
+## 📄 License
 
-This project was developed for the Applied Statistics course at the University of Salerno, emphasizing real-world data wrangling, time series analysis, clustering, and exploratory research.
+This project is licensed under the [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
-For any questions or feedback, feel free to reach out!
+You may share and adapt this work for non-commercial purposes only, **as long as you give appropriate credit** and **distribute your contributions under the same license**.  
+For commercial use, **explicit permission from the authors is required**.
